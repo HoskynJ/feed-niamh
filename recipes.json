@@ -1,0 +1,1954 @@
+{
+  "database_name": "Feed Niamh v1",
+  "record_count": 45,
+  "recipes": [
+    {
+      "code": "EF01",
+      "id": "buttered-toast",
+      "name": "Buttered Toast",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 4,
+      "difficulty": "Almost effortless",
+      "calories_estimate": 260,
+      "protein_g_estimate": 7,
+      "why": "No performance required. Warm toast is still dinner when dinner is otherwise not happening.",
+      "ingredients": [
+        "2 slices bread",
+        "Butter"
+      ],
+      "method": [
+        "Toast the bread to your preferred colour.",
+        "Butter generously while hot.",
+        "Put it on a plate, or do not. The objective is to eat."
+      ],
+      "shortcuts": [
+        "Use the toaster rather than the grill.",
+        "Add a piece of fruit later only if that feels manageable."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🍞",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF02",
+      "id": "cheese-on-toast",
+      "name": "Cheese on Toast",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 8,
+      "difficulty": "Very easy",
+      "calories_estimate": 390,
+      "protein_g_estimate": 20,
+      "why": "Hot, crisp and satisfying with almost no preparation.",
+      "ingredients": [
+        "2 slices bread",
+        "60g grated cheddar",
+        "Black pepper, optional"
+      ],
+      "method": [
+        "Toast one side of the bread.",
+        "Turn it over and cover with cheese.",
+        "Grill or air fry until bubbling."
+      ],
+      "shortcuts": [
+        "Use pre-grated cheddar.",
+        "Line the tray or air fryer basket."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🧀",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF03",
+      "id": "cheese-tomato-toast",
+      "name": "Cheese & Tomato Toast",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 9,
+      "difficulty": "Very easy",
+      "calories_estimate": 410,
+      "protein_g_estimate": 21,
+      "why": "A tiny bit fresher than cheese on toast, without meaningfully increasing the workload.",
+      "ingredients": [
+        "2 slices bread",
+        "55g grated cheddar",
+        "1 tomato, thinly sliced",
+        "Black pepper or mixed herbs"
+      ],
+      "method": [
+        "Lightly toast the bread.",
+        "Add tomato and cheese.",
+        "Grill or air fry until golden."
+      ],
+      "shortcuts": [
+        "Use cherry tomatoes and halve them.",
+        "Skip the herbs if reaching for them is one task too many."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🍅",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF04",
+      "id": "cheese-pickle-toast",
+      "name": "Cheese & Pickle Toast",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 8,
+      "difficulty": "Very easy",
+      "calories_estimate": 400,
+      "protein_g_estimate": 20,
+      "why": "Sharp pickle, melted cheese and crisp toast make a proper savoury meal from cupboard basics.",
+      "ingredients": [
+        "2 slices bread",
+        "55g grated cheddar",
+        "1 tbsp pickle or sliced pickled onions"
+      ],
+      "method": [
+        "Toast the bread lightly.",
+        "Add pickle, then cheese.",
+        "Grill until melted and golden."
+      ],
+      "shortcuts": [
+        "Use pre-sliced cheese.",
+        "Serve open-faced to avoid any sandwich engineering."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥒",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF05",
+      "id": "beans-on-toast",
+      "name": "Beans on Toast",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 7,
+      "difficulty": "Almost effortless",
+      "calories_estimate": 405,
+      "protein_g_estimate": 18,
+      "why": "Warm, filling and dependable. The British emergency dinner remains undefeated.",
+      "ingredients": [
+        "2 slices bread",
+        "Half a 400g tin baked beans"
+      ],
+      "method": [
+        "Heat the beans in the microwave or a small pan.",
+        "Toast the bread.",
+        "Pour the beans over the toast."
+      ],
+      "shortcuts": [
+        "Microwave the beans in the bowl you will eat from.",
+        "Use one slice of toast if appetite is low, then make more if wanted."
+      ],
+      "legend": true,
+      "fed_is_best": true,
+      "emoji": "🫘",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF06",
+      "id": "cheesy-beans-on-toast",
+      "name": "Cheesy Beans on Toast",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 8,
+      "difficulty": "Almost effortless",
+      "calories_estimate": 495,
+      "protein_g_estimate": 24,
+      "why": "Beans on toast with a promotion: more comforting, more filling, still very little effort.",
+      "ingredients": [
+        "2 slices bread",
+        "Half a 400g tin baked beans",
+        "30g grated cheddar"
+      ],
+      "method": [
+        "Heat the beans.",
+        "Toast the bread.",
+        "Add beans and scatter over cheese so it melts."
+      ],
+      "shortcuts": [
+        "Stir the cheese into the hot beans.",
+        "Use pre-grated cheddar."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🧀",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF07",
+      "id": "tomato-soup",
+      "name": "Tomato Soup",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500",
+        "freezer_staples"
+      ],
+      "time_minutes": 5,
+      "difficulty": "Open, heat, eat",
+      "calories_estimate": 220,
+      "protein_g_estimate": 5,
+      "why": "A warm bowl with virtually no decisions attached.",
+      "ingredients": [
+        "1 tin or carton tomato soup"
+      ],
+      "method": [
+        "Pour the soup into a microwave-safe bowl or pan.",
+        "Heat until piping hot, stirring halfway.",
+        "Eat. That is enough."
+      ],
+      "shortcuts": [
+        "Choose a ring-pull tin.",
+        "Microwave in the bowl you will use."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥣",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF08",
+      "id": "tomato-soup-bread",
+      "name": "Tomato Soup & Bread",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 6,
+      "difficulty": "Almost effortless",
+      "calories_estimate": 390,
+      "protein_g_estimate": 10,
+      "why": "The bread turns simple soup into something more substantial without adding cooking.",
+      "ingredients": [
+        "1 tin or carton tomato soup",
+        "2 slices bread",
+        "Butter, optional"
+      ],
+      "method": [
+        "Heat the soup until piping hot.",
+        "Butter the bread if wanted.",
+        "Dip, eat and call dinner handled."
+      ],
+      "shortcuts": [
+        "Use a bread roll or pitta instead.",
+        "Keep sliced bread in the freezer."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥣",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF09",
+      "id": "tomato-soup-toast",
+      "name": "Tomato Soup & Toast",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 7,
+      "difficulty": "Almost effortless",
+      "calories_estimate": 380,
+      "protein_g_estimate": 10,
+      "why": "Crisp toast and warm soup deliver proper comfort for minimal effort.",
+      "ingredients": [
+        "1 tin or carton tomato soup",
+        "2 slices bread",
+        "Butter, optional"
+      ],
+      "method": [
+        "Heat the soup.",
+        "Toast and butter the bread.",
+        "Serve together."
+      ],
+      "shortcuts": [
+        "Cut the toast into dunking strips only if that brings joy.",
+        "Use the toaster and microwave at the same time."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🍞",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF10",
+      "id": "crackers-cheese-pickles",
+      "name": "Crackers, Cheese & Pickles",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "no_cook",
+        "under_500"
+      ],
+      "time_minutes": 5,
+      "difficulty": "No cooking",
+      "calories_estimate": 430,
+      "protein_g_estimate": 21,
+      "why": "A cold picky plate still counts as a meal, especially when cooking is not available tonight.",
+      "ingredients": [
+        "6 crackers",
+        "60g cheddar",
+        "Pickles, gherkins or pickled onions",
+        "A few grapes or cucumber slices, optional"
+      ],
+      "method": [
+        "Put everything on a plate.",
+        "Eat in whichever order seems correct."
+      ],
+      "shortcuts": [
+        "Use pre-sliced cheese.",
+        "Eat from the packet if plating creates friction."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🧀",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF11",
+      "id": "fruit-greek-yoghurt-bowl",
+      "name": "Fruit & Greek Yoghurt Bowl",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "feelgood"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "no_cook",
+        "under_500"
+      ],
+      "time_minutes": 5,
+      "difficulty": "No cooking",
+      "calories_estimate": 330,
+      "protein_g_estimate": 19,
+      "why": "Cool, sweet and quick, with enough protein to be more than an afterthought.",
+      "ingredients": [
+        "200g Greek yoghurt",
+        "1 banana or a handful of berries",
+        "20g oats or granola",
+        "1 tsp honey, optional"
+      ],
+      "method": [
+        "Spoon the yoghurt into a bowl.",
+        "Add fruit and oats or granola.",
+        "Drizzle with honey if wanted."
+      ],
+      "shortcuts": [
+        "Use frozen berries and let them soften for a few minutes.",
+        "Skip chopping by choosing grapes, berries or a banana."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🫐",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF12",
+      "id": "quick-porridge",
+      "name": "Quick Porridge",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 6,
+      "difficulty": "Very easy",
+      "calories_estimate": 360,
+      "protein_g_estimate": 15,
+      "why": "Warm, filling and gentle when dinner needs to be completely uncomplicated.",
+      "ingredients": [
+        "50g oats",
+        "250ml milk or oat milk",
+        "1 banana or berries",
+        "1 tsp peanut butter, optional"
+      ],
+      "method": [
+        "Combine the oats and milk in a large bowl.",
+        "Microwave for 2 to 3 minutes, stirring halfway.",
+        "Add fruit and peanut butter if wanted."
+      ],
+      "shortcuts": [
+        "Use instant oat sachets.",
+        "Make it in the bowl you will eat from."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥣",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF13",
+      "id": "cereal-for-dinner",
+      "name": "Cereal for Dinner",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "no_cook",
+        "under_500"
+      ],
+      "time_minutes": 3,
+      "difficulty": "No cooking",
+      "calories_estimate": 350,
+      "protein_g_estimate": 13,
+      "why": "Because being fed matters more than whether the meal looks like dinner.",
+      "ingredients": [
+        "1 generous bowl cereal",
+        "Milk, oat milk or almond milk",
+        "Fruit, optional"
+      ],
+      "method": [
+        "Put cereal in a bowl.",
+        "Add milk.",
+        "Eat before reconsidering the decision."
+      ],
+      "shortcuts": [
+        "Add a banana for more staying power.",
+        "Have a second bowl if the first was not enough."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥣",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF14",
+      "id": "toasted-bagel-cheddar",
+      "name": "Toasted Bagel & Cheddar",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 6,
+      "difficulty": "Almost effortless",
+      "calories_estimate": 440,
+      "protein_g_estimate": 20,
+      "why": "A hot, sturdy meal requiring little more than toaster access.",
+      "ingredients": [
+        "1 bagel",
+        "40g cheddar",
+        "Tomato or pickle, optional"
+      ],
+      "method": [
+        "Split and toast the bagel.",
+        "Add cheddar while hot.",
+        "Add tomato or pickle if wanted."
+      ],
+      "shortcuts": [
+        "Use cheese slices.",
+        "Air fry for 2 minutes after adding cheese if melted is preferred."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥯",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "EF15",
+      "id": "emergency-halloumi-wrap",
+      "name": "Emergency Halloumi Wrap",
+      "category": "Emergency Feeding",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 10,
+      "difficulty": "Very easy",
+      "calories_estimate": 480,
+      "protein_g_estimate": 25,
+      "why": "Halloumi makes an emergency meal feel intentional without asking much in return.",
+      "ingredients": [
+        "70g halloumi, sliced",
+        "1 large wrap",
+        "A handful of lettuce",
+        "1 tbsp sweet chilli sauce"
+      ],
+      "method": [
+        "Air fry or pan-fry the halloumi until golden.",
+        "Warm the wrap.",
+        "Add lettuce, halloumi and sweet chilli sauce.",
+        "Fold and eat."
+      ],
+      "shortcuts": [
+        "Use pre-sliced halloumi.",
+        "Use bagged salad.",
+        "Cook the halloumi in the air fryer while warming the wrap."
+      ],
+      "legend": true,
+      "fed_is_best": true,
+      "emoji": "🌯",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP01",
+      "id": "jacket-potato-cheese",
+      "name": "Jacket Potato & Cheese",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 470,
+      "protein_g_estimate": 20,
+      "why": "Crisp potato, melted cheese and no unnecessary complication.",
+      "ingredients": [
+        "1 medium baking potato",
+        "50g grated cheddar",
+        "Butter, optional"
+      ],
+      "method": [
+        "Prick the potato and microwave for 8 to 10 minutes, turning once.",
+        "Air fry or oven-crisp for a few minutes if wanted.",
+        "Split, fluff and add cheese."
+      ],
+      "shortcuts": [
+        "Use a frozen microwave jacket potato.",
+        "Use pre-grated cheddar."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥔",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP02",
+      "id": "jacket-potato-beans",
+      "name": "Jacket Potato & Beans",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 455,
+      "protein_g_estimate": 18,
+      "why": "A warm, filling meal built almost entirely from cupboard and freezer staples.",
+      "ingredients": [
+        "1 medium baking potato",
+        "Half a tin baked beans"
+      ],
+      "method": [
+        "Microwave the potato until tender.",
+        "Heat the beans.",
+        "Split the potato and spoon over the beans."
+      ],
+      "shortcuts": [
+        "Use a microwave jacket potato.",
+        "Heat the beans in the serving bowl."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥔",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP03",
+      "id": "jacket-potato-cheese-beans",
+      "name": "Jacket Potato, Cheese & Beans",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 13,
+      "difficulty": "Very easy",
+      "calories_estimate": 550,
+      "protein_g_estimate": 25,
+      "why": "Reliable comfort with protein, warmth and a generous melted-cheese finish.",
+      "ingredients": [
+        "1 medium baking potato",
+        "Half a tin baked beans",
+        "35g grated cheddar"
+      ],
+      "method": [
+        "Cook the potato until soft.",
+        "Heat the beans.",
+        "Split the potato, add beans and finish with cheese."
+      ],
+      "shortcuts": [
+        "Put cheese under and over the beans.",
+        "Use pre-grated cheese."
+      ],
+      "legend": true,
+      "fed_is_best": true,
+      "emoji": "🥔",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP04",
+      "id": "jacket-potato-cheese-coleslaw",
+      "name": "Jacket Potato, Cheese & Coleslaw",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 530,
+      "protein_g_estimate": 18,
+      "why": "One of Niamh’s actual favourites: hot potato, sharp cheddar and cool crunchy coleslaw.",
+      "ingredients": [
+        "1 medium baking potato",
+        "45g grated cheddar",
+        "100g coleslaw"
+      ],
+      "method": [
+        "Cook the potato until tender.",
+        "Split and fluff the middle.",
+        "Add cheese, then a generous layer of coleslaw."
+      ],
+      "shortcuts": [
+        "Use a microwave potato.",
+        "Use shop-bought coleslaw and pre-grated cheese."
+      ],
+      "legend": true,
+      "fed_is_best": true,
+      "emoji": "🥔",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP05",
+      "id": "jacket-potato-coleslaw-more-coleslaw",
+      "name": "Jacket Potato, Coleslaw & More Coleslaw",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 11,
+      "difficulty": "Almost effortless",
+      "calories_estimate": 470,
+      "protein_g_estimate": 9,
+      "why": "A crunchy, cool-topped jacket for when coleslaw is not a side dish but the main event.",
+      "ingredients": [
+        "1 medium baking potato",
+        "150g coleslaw",
+        "Black pepper, optional"
+      ],
+      "method": [
+        "Cook the potato until soft.",
+        "Split and fluff it.",
+        "Add coleslaw.",
+        "Assess the situation and add more coleslaw."
+      ],
+      "shortcuts": [
+        "Use a microwave jacket potato.",
+        "No extra bowl required."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🥔",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP06",
+      "id": "jacket-potato-cheese-coleslaw-cheese",
+      "name": "Jacket Potato, Cheese, Coleslaw, Cheese",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 13,
+      "difficulty": "Legendary but easy",
+      "calories_estimate": 610,
+      "protein_g_estimate": 24,
+      "why": "The official Niamh Edition: cheese, coleslaw, more cheese and, if required, another strategic spoonful of coleslaw.",
+      "ingredients": [
+        "1 medium baking potato",
+        "60g grated cheddar, divided",
+        "120g coleslaw"
+      ],
+      "method": [
+        "Cook and split the potato.",
+        "Add half the cheese so it begins to melt.",
+        "Add coleslaw.",
+        "Add the remaining cheese.",
+        "Apply further coleslaw according to structural capacity."
+      ],
+      "shortcuts": [
+        "Use a wide bowl to contain the architecture.",
+        "Pre-grated cheese is entirely justified."
+      ],
+      "legend": true,
+      "fed_is_best": true,
+      "emoji": "👑",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP07",
+      "id": "jacket-potato-cottage-cheese-chives",
+      "name": "Jacket Potato, Cottage Cheese & Chives",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "feelgood"
+      ],
+      "preferences": [
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 430,
+      "protein_g_estimate": 29,
+      "why": "Fresh, filling and high in protein without becoming a creamy cheese sauce situation.",
+      "ingredients": [
+        "1 medium baking potato",
+        "150g cottage cheese",
+        "1 tbsp chopped chives",
+        "Black pepper"
+      ],
+      "method": [
+        "Cook and split the potato.",
+        "Season the cottage cheese with chives and pepper.",
+        "Spoon it generously into the potato."
+      ],
+      "shortcuts": [
+        "Use dried chives.",
+        "Add cucumber on the side if wanted."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🌿",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP08",
+      "id": "jacket-potato-cottage-cheese-sweetcorn",
+      "name": "Jacket Potato, Cottage Cheese & Sweetcorn",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 455,
+      "protein_g_estimate": 29,
+      "why": "Sweetcorn adds crunch and sweetness to a simple, protein-friendly jacket potato.",
+      "ingredients": [
+        "1 medium baking potato",
+        "150g cottage cheese",
+        "80g sweetcorn",
+        "Black pepper"
+      ],
+      "method": [
+        "Cook and split the potato.",
+        "Mix cottage cheese with sweetcorn.",
+        "Pile the mixture into the potato and season."
+      ],
+      "shortcuts": [
+        "Use drained tinned sweetcorn.",
+        "Mix directly in the potato bowl."
+      ],
+      "legend": false,
+      "fed_is_best": true,
+      "emoji": "🌽",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP09",
+      "id": "jacket-potato-crispy-halloumi",
+      "name": "Jacket Potato & Crispy Halloumi",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 18,
+      "difficulty": "Easy",
+      "calories_estimate": 585,
+      "protein_g_estimate": 27,
+      "why": "A proper filling dinner with crisp halloumi and almost no chopping.",
+      "ingredients": [
+        "1 medium baking potato",
+        "80g halloumi",
+        "Tomato and cucumber, optional",
+        "Sweet chilli sauce, optional"
+      ],
+      "method": [
+        "Start the potato in the microwave.",
+        "Slice and air fry the halloumi until crisp.",
+        "Split the potato and top with halloumi.",
+        "Add salad or sauce if wanted."
+      ],
+      "shortcuts": [
+        "Use pre-sliced halloumi.",
+        "Microwave first, then crisp the potato and halloumi together in the air fryer."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🥔",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "JP10",
+      "id": "sweet-potato-halloumi",
+      "name": "Sweet Potato & Halloumi",
+      "category": "Jacket Potato Kingdom",
+      "energy": [
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "feelgood"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 20,
+      "difficulty": "Easy",
+      "calories_estimate": 560,
+      "protein_g_estimate": 25,
+      "why": "Sweet, salty and satisfying with crisp edges and enough substance to count as a proper dinner.",
+      "ingredients": [
+        "1 medium sweet potato",
+        "80g halloumi",
+        "A handful of spinach or lettuce",
+        "1 tsp sweet chilli sauce"
+      ],
+      "method": [
+        "Microwave the sweet potato until mostly tender.",
+        "Air fry the potato and halloumi until crisp.",
+        "Split the potato, add leaves and halloumi.",
+        "Finish with sweet chilli sauce."
+      ],
+      "shortcuts": [
+        "Use a microwave sweet potato.",
+        "Bagged leaves remove all chopping."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🍠",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H01",
+      "id": "halloumi-crunch-wrap",
+      "name": "Halloumi Crunch Wrap",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 485,
+      "protein_g_estimate": 26,
+      "why": "Crispy halloumi, crunchy salad and sweet chilli deliver proper food without making dinner a project.",
+      "ingredients": [
+        "75g halloumi",
+        "1 large wrap",
+        "Shredded lettuce",
+        "Cucumber and tomato",
+        "1 tbsp sweet chilli sauce"
+      ],
+      "method": [
+        "Air fry or pan-fry the halloumi.",
+        "Warm the wrap.",
+        "Layer salad, halloumi and sauce.",
+        "Fold tightly and eat while crisp."
+      ],
+      "shortcuts": [
+        "Use bagged salad.",
+        "Buy pre-sliced halloumi."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🌯",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H02",
+      "id": "sweet-chilli-halloumi-wrap",
+      "name": "Sweet Chilli Halloumi Wrap",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 505,
+      "protein_g_estimate": 25,
+      "why": "Sweet, salty and crisp, with exactly enough sauce to feel exciting.",
+      "ingredients": [
+        "80g halloumi",
+        "1 large wrap",
+        "Lettuce",
+        "Cucumber",
+        "1.5 tbsp sweet chilli sauce"
+      ],
+      "method": [
+        "Cook the halloumi until golden.",
+        "Warm the wrap.",
+        "Add salad and halloumi.",
+        "Drizzle with sweet chilli sauce and fold."
+      ],
+      "shortcuts": [
+        "Air fry the halloumi.",
+        "Use pre-cut cucumber or skip it."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🌯",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H03",
+      "id": "greek-halloumi-wrap",
+      "name": "Greek Halloumi Wrap",
+      "category": "Halloumi Empire",
+      "energy": [
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "feelgood"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 15,
+      "difficulty": "Easy",
+      "calories_estimate": 520,
+      "protein_g_estimate": 28,
+      "why": "A fresh, herby wrap with crunchy vegetables and halloumi doing the heavy lifting.",
+      "ingredients": [
+        "80g halloumi",
+        "1 wrap",
+        "Lettuce, tomato and cucumber",
+        "2 tbsp Greek yoghurt",
+        "Lemon juice and mixed herbs"
+      ],
+      "method": [
+        "Cook the halloumi.",
+        "Mix yoghurt with lemon and herbs.",
+        "Fill the wrap with salad and halloumi.",
+        "Spoon over the yoghurt dressing and fold."
+      ],
+      "shortcuts": [
+        "Use ready-made tzatziki if preferred.",
+        "Use bagged salad."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🌯",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H04",
+      "id": "halloumi-salad-wrap",
+      "name": "Halloumi Salad Wrap",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "feelgood"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "under_500"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 470,
+      "protein_g_estimate": 25,
+      "why": "A crisp, fresh wrap that still feels substantial because halloumi refuses to be boring.",
+      "ingredients": [
+        "70g halloumi",
+        "1 wrap",
+        "Mixed leaves",
+        "Tomato and cucumber",
+        "Pickled onions, optional"
+      ],
+      "method": [
+        "Cook the halloumi.",
+        "Warm the wrap.",
+        "Add leaves, vegetables and halloumi.",
+        "Add pickled onions and fold."
+      ],
+      "shortcuts": [
+        "Use a salad bag.",
+        "Skip any vegetable that is not welcome tonight."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🥗",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H05",
+      "id": "crispy-halloumi-pitta",
+      "name": "Crispy Halloumi Pitta",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 13,
+      "difficulty": "Very easy",
+      "calories_estimate": 500,
+      "protein_g_estimate": 27,
+      "why": "Hot halloumi in a warm pitta with fresh crunch is an extremely dependable answer to dinner.",
+      "ingredients": [
+        "80g halloumi",
+        "1 large pitta",
+        "Lettuce",
+        "Tomato and cucumber",
+        "Sweet chilli sauce or Greek yoghurt"
+      ],
+      "method": [
+        "Cook the halloumi until crisp.",
+        "Warm and split the pitta.",
+        "Stuff with salad and halloumi.",
+        "Add the chosen sauce."
+      ],
+      "shortcuts": [
+        "Toast the pitta while the halloumi air fries.",
+        "Use ready-prepared salad."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🥙",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H06",
+      "id": "halloumi-flatbread",
+      "name": "Halloumi Flatbread",
+      "category": "Halloumi Empire",
+      "energy": [
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "feelgood"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 18,
+      "difficulty": "Easy",
+      "calories_estimate": 560,
+      "protein_g_estimate": 28,
+      "why": "A colourful pile-it-high dinner that feels more ambitious than the effort required.",
+      "ingredients": [
+        "1 flatbread",
+        "80g halloumi",
+        "Lettuce, tomato and cucumber",
+        "2 tbsp hummus",
+        "Pickled onions"
+      ],
+      "method": [
+        "Warm the flatbread.",
+        "Cook the halloumi.",
+        "Spread the flatbread with hummus.",
+        "Top with salad, pickles and halloumi."
+      ],
+      "shortcuts": [
+        "Use shop-bought flatbread and hummus.",
+        "Serve open rather than attempting to fold it."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🫓",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H07",
+      "id": "halloumi-quesadilla",
+      "name": "Halloumi Quesadilla",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 13,
+      "difficulty": "Very easy",
+      "calories_estimate": 570,
+      "protein_g_estimate": 30,
+      "why": "Crisp tortilla, molten cheddar and salty halloumi make a serious comfort meal with one pan at most.",
+      "ingredients": [
+        "1 large wrap",
+        "60g halloumi",
+        "30g cheddar",
+        "Sweetcorn or peppers",
+        "1 tbsp salsa"
+      ],
+      "method": [
+        "Cook the halloumi briefly.",
+        "Cover half the wrap with halloumi, cheddar and vegetables.",
+        "Fold and cook until crisp on both sides.",
+        "Slice and serve with salsa."
+      ],
+      "shortcuts": [
+        "Use the air fryer.",
+        "Frozen peppers or sweetcorn work well."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🫓",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H08",
+      "id": "halloumi-burger-wrap",
+      "name": "Halloumi Burger Wrap",
+      "category": "Halloumi Empire",
+      "energy": [
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 18,
+      "difficulty": "Easy",
+      "calories_estimate": 590,
+      "protein_g_estimate": 28,
+      "why": "All the halloumi-burger pleasure in a wrap that is easier to hold and quicker to assemble.",
+      "ingredients": [
+        "90g halloumi",
+        "1 large wrap",
+        "Lettuce and tomato",
+        "Pickles",
+        "Ketchup or sweet chilli sauce"
+      ],
+      "method": [
+        "Cook the halloumi until golden.",
+        "Warm the wrap.",
+        "Add salad, pickles, sauce and halloumi.",
+        "Fold like a burrito."
+      ],
+      "shortcuts": [
+        "Use oven chips on the side only if wanted.",
+        "Pre-sliced pickles save time."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🍔",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H09",
+      "id": "halloumi-toastie",
+      "name": "Halloumi Toastie",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 550,
+      "protein_g_estimate": 29,
+      "why": "A deeply crisp toastie with halloumi bite, made for days when beige food is doing important work.",
+      "ingredients": [
+        "2 slices bread",
+        "70g halloumi, thinly sliced",
+        "25g cheddar",
+        "Tomato or pickle, optional"
+      ],
+      "method": [
+        "Cook the halloumi for a few minutes.",
+        "Build the sandwich with halloumi and cheddar.",
+        "Toast in a sandwich press or frying pan until golden."
+      ],
+      "shortcuts": [
+        "Use a sandwich toaster.",
+        "Skip the optional filling."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🥪",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H10",
+      "id": "halloumi-melt",
+      "name": "Halloumi Melt",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained"
+      ],
+      "needs": [
+        "quick",
+        "comfort"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 12,
+      "difficulty": "Very easy",
+      "calories_estimate": 530,
+      "protein_g_estimate": 27,
+      "why": "Open-faced, crisp-edged and reassuringly cheesy without any creamy sauce.",
+      "ingredients": [
+        "2 slices bread or 1 bagel",
+        "70g halloumi",
+        "30g mozzarella",
+        "Tomato slices"
+      ],
+      "method": [
+        "Toast the bread lightly.",
+        "Add tomato, halloumi and mozzarella.",
+        "Grill until the mozzarella bubbles."
+      ],
+      "shortcuts": [
+        "Use pre-grated mozzarella.",
+        "Air fry on baking paper."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🧀",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H11",
+      "id": "halloumi-rice-bowl",
+      "name": "Halloumi Rice Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 15,
+      "difficulty": "Very easy",
+      "calories_estimate": 560,
+      "protein_g_estimate": 26,
+      "why": "A plain, reliable rice bowl with crisp halloumi and no unnecessary sauce.",
+      "ingredients": [
+        "1 microwave rice pouch",
+        "80g halloumi",
+        "Cucumber and tomato",
+        "Lemon or herbs, optional"
+      ],
+      "method": [
+        "Heat the rice.",
+        "Cook the halloumi.",
+        "Add both to a bowl with vegetables.",
+        "Season simply, if wanted."
+      ],
+      "shortcuts": [
+        "Use half a rice pouch for a lighter portion.",
+        "Use ready-cut salad."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🍚",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H12",
+      "id": "halloumi-sweetcorn-rice-bowl",
+      "name": "Halloumi & Sweetcorn Rice Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 15,
+      "difficulty": "Very easy",
+      "calories_estimate": 590,
+      "protein_g_estimate": 28,
+      "why": "Sweetcorn brings gentle sweetness and crunch to a straightforward, filling bowl.",
+      "ingredients": [
+        "1 microwave rice pouch",
+        "80g halloumi",
+        "100g sweetcorn",
+        "Spring onion, optional"
+      ],
+      "method": [
+        "Heat the rice and sweetcorn.",
+        "Cook the halloumi.",
+        "Combine in a bowl.",
+        "Top with spring onion if wanted."
+      ],
+      "shortcuts": [
+        "Use tinned sweetcorn.",
+        "Cook the halloumi in the air fryer."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🌽",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H13",
+      "id": "halloumi-pea-rice-bowl",
+      "name": "Halloumi & Pea Rice Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up",
+        "freezer_staples"
+      ],
+      "time_minutes": 15,
+      "difficulty": "Very easy",
+      "calories_estimate": 570,
+      "protein_g_estimate": 29,
+      "why": "Warm rice, peas and salty halloumi make a simple dinner with freezer-friendly ingredients.",
+      "ingredients": [
+        "1 microwave rice pouch",
+        "80g halloumi",
+        "100g frozen peas",
+        "Lemon pepper or herbs"
+      ],
+      "method": [
+        "Microwave the peas with the rice.",
+        "Cook the halloumi.",
+        "Combine and season."
+      ],
+      "shortcuts": [
+        "Frozen peas need no chopping.",
+        "Use one bowl for rice and peas."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🫛",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H14",
+      "id": "sweet-chilli-halloumi-rice-bowl",
+      "name": "Sweet Chilli Halloumi Rice Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "fumes",
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "super_fast",
+        "minimal_washing_up"
+      ],
+      "time_minutes": 16,
+      "difficulty": "Very easy",
+      "calories_estimate": 610,
+      "protein_g_estimate": 27,
+      "why": "Sweet chilli, crisp halloumi and rice make this the fast bowl most likely to feel like a treat.",
+      "ingredients": [
+        "1 microwave rice pouch",
+        "80g halloumi",
+        "Sweetcorn or peppers",
+        "1.5 tbsp sweet chilli sauce",
+        "Spring onion, optional"
+      ],
+      "method": [
+        "Heat the rice and vegetables.",
+        "Cook the halloumi until golden.",
+        "Build the bowl and drizzle over sweet chilli sauce."
+      ],
+      "shortcuts": [
+        "Use frozen peppers.",
+        "Cook halloumi while the rice heats."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🍚",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H15",
+      "id": "greek-halloumi-bowl",
+      "name": "Greek Halloumi Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "feelgood"
+      ],
+      "preferences": [
+        "under_500"
+      ],
+      "time_minutes": 20,
+      "difficulty": "Easy",
+      "calories_estimate": 495,
+      "protein_g_estimate": 28,
+      "why": "Fresh, crunchy and colourful, with halloumi making the salad feel like dinner rather than a punishment.",
+      "ingredients": [
+        "70g halloumi",
+        "Lettuce",
+        "Tomato and cucumber",
+        "80g cooked couscous or half a rice pouch",
+        "2 tbsp Greek yoghurt",
+        "Lemon and herbs"
+      ],
+      "method": [
+        "Cook the halloumi.",
+        "Arrange leaves, vegetables and couscous in a bowl.",
+        "Add halloumi.",
+        "Finish with lemony yoghurt."
+      ],
+      "shortcuts": [
+        "Use a salad bag and ready-cooked grains.",
+        "Keep the dressing separate if preferred."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🥗",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H16",
+      "id": "halloumi-protein-bowl",
+      "name": "Halloumi Protein Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "fuel"
+      ],
+      "preferences": [
+        "under_500"
+      ],
+      "time_minutes": 20,
+      "difficulty": "Easy",
+      "calories_estimate": 490,
+      "protein_g_estimate": 34,
+      "why": "Halloumi, chickpeas and crunchy vegetables provide genuine staying power without using fake meat or creamy sauce.",
+      "ingredients": [
+        "60g halloumi",
+        "100g chickpeas",
+        "Lettuce, cucumber and tomato",
+        "50g edamame beans",
+        "Lemon and herbs"
+      ],
+      "method": [
+        "Cook the halloumi.",
+        "Warm the chickpeas and edamame, if preferred.",
+        "Build the bowl with vegetables.",
+        "Add halloumi and season with lemon and herbs."
+      ],
+      "shortcuts": [
+        "Use tinned chickpeas and frozen edamame.",
+        "Serve everything cold except the halloumi."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "💪",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H17",
+      "id": "halloumi-burrito-bowl",
+      "name": "Halloumi Burrito Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "drained",
+        "okay"
+      ],
+      "needs": [
+        "quick",
+        "fuel"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 22,
+      "difficulty": "Easy",
+      "calories_estimate": 620,
+      "protein_g_estimate": 30,
+      "why": "A filling Mexican-style bowl with crisp halloumi, beans and plenty of texture.",
+      "ingredients": [
+        "80g halloumi",
+        "Half a microwave rice pouch",
+        "100g black or kidney beans",
+        "Sweetcorn and tomato",
+        "Salsa",
+        "Greek yoghurt, optional"
+      ],
+      "method": [
+        "Heat the rice and beans.",
+        "Cook the halloumi.",
+        "Build the bowl with sweetcorn and tomato.",
+        "Add salsa and yoghurt if wanted."
+      ],
+      "shortcuts": [
+        "Use tinned beans and sweetcorn.",
+        "Microwave rice keeps the pan count low."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🌯",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H18",
+      "id": "halloumi-gyros-bowl",
+      "name": "Halloumi Gyros Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "okay",
+        "cook"
+      ],
+      "needs": [
+        "feelgood"
+      ],
+      "preferences": [
+        "minimal_washing_up"
+      ],
+      "time_minutes": 25,
+      "difficulty": "Easy",
+      "calories_estimate": 590,
+      "protein_g_estimate": 31,
+      "why": "A deconstructed gyros with crisp potatoes, fresh salad and herby halloumi.",
+      "ingredients": [
+        "80g halloumi",
+        "200g baby potatoes or wedges",
+        "Lettuce, tomato and cucumber",
+        "2 tbsp Greek yoghurt",
+        "Lemon and oregano"
+      ],
+      "method": [
+        "Air fry the potatoes until crisp.",
+        "Cook the halloumi with oregano.",
+        "Build the bowl with salad.",
+        "Add yoghurt and lemon."
+      ],
+      "shortcuts": [
+        "Use frozen wedges.",
+        "Use bagged salad."
+      ],
+      "legend": false,
+      "fed_is_best": false,
+      "emoji": "🥙",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H19",
+      "id": "halloumi-souvlaki-bowl",
+      "name": "Halloumi Souvlaki Bowl",
+      "category": "Halloumi Empire",
+      "energy": [
+        "okay",
+        "cook"
+      ],
+      "needs": [
+        "effort"
+      ],
+      "preferences": [],
+      "time_minutes": 30,
+      "difficulty": "Moderate",
+      "calories_estimate": 630,
+      "protein_g_estimate": 32,
+      "why": "Charred halloumi, peppers and onion make a more involved dinner that pays back the effort.",
+      "ingredients": [
+        "100g halloumi, cubed",
+        "Peppers and red onion",
+        "150g cooked rice or potatoes",
+        "Tomato and cucumber",
+        "Greek yoghurt, lemon and herbs"
+      ],
+      "method": [
+        "Thread halloumi, peppers and onion onto skewers or place directly in a tray.",
+        "Grill or air fry until charred.",
+        "Prepare the rice or potatoes and salad.",
+        "Serve together with lemony yoghurt."
+      ],
+      "shortcuts": [
+        "Skip the skewers and use an air-fryer liner.",
+        "Use microwave rice."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🍢",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    },
+    {
+      "code": "H20",
+      "id": "homemade-halloumi-gyros",
+      "name": "Homemade Halloumi Gyros",
+      "category": "Halloumi Empire",
+      "energy": [
+        "cook"
+      ],
+      "needs": [
+        "effort"
+      ],
+      "preferences": [
+        "happy_to_shop"
+      ],
+      "time_minutes": 35,
+      "difficulty": "Worth the effort",
+      "calories_estimate": 690,
+      "protein_g_estimate": 34,
+      "why": "The full Feed Niamh event: seasoned halloumi, warm pitta, crisp salad and enough components to feel special.",
+      "ingredients": [
+        "100g halloumi",
+        "1 large pitta or flatbread",
+        "200g potato wedges",
+        "Lettuce, tomato and cucumber",
+        "Pickled onions",
+        "2 tbsp Greek yoghurt",
+        "Lemon, oregano and paprika"
+      ],
+      "method": [
+        "Cook the wedges until crisp.",
+        "Season and cook the halloumi until golden.",
+        "Mix yoghurt with lemon and oregano.",
+        "Warm the pitta.",
+        "Pile everything into the pitta or serve as a plate."
+      ],
+      "shortcuts": [
+        "Use frozen wedges and bagged salad.",
+        "Serve deconstructed if folding a gyros becomes unnecessary admin."
+      ],
+      "legend": true,
+      "fed_is_best": false,
+      "emoji": "🥙",
+      "vegetarian": true,
+      "nutrition_note": "Planning estimate only; actual nutrition varies by brand, portion and substitutions."
+    }
+  ]
+}
