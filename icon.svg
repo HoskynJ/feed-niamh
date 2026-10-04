@@ -1,7 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#F7F1E7"/>
-  <circle cx="256" cy="226" r="150" fill="#FFFDF8" stroke="#758568" stroke-width="18"/>
-  <circle cx="256" cy="226" r="103" fill="none" stroke="#E7ECDF" stroke-width="12"/>
-  <text x="256" y="270" text-anchor="middle" font-size="130">🌯</text>
-  <text x="256" y="438" text-anchor="middle" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#4F6048">Feed Niamh</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Icon</title>
+  <rect width="1024" height="1024" rx="230" fill="#D9919D"/>
+  <path fill="#FFFFFF" d="
+    M 245,245
+    Q 245,225 265,225
+    L 348,225
+    Q 367,225 380,241
+    L 568,474
+    L 568,246
+    Q 568,225 589,225
+    L 675,225
+    Q 663,255 681,283
+    Q 700,310 729,310
+    Q 726,341 748,363
+    Q 768,383 796,383
+    L 796,758
+    Q 796,780 774,780
+    L 632,780
+    Q 613,780 600,763
+    L 360,462
+    L 360,758
+    Q 360,780 338,780
+    L 267,780
+    Q 245,780 245,758
+    Z"/>
 </svg>
