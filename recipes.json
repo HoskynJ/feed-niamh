@@ -1,6 +1,6 @@
 {
-  "database_name": "Feed Niamh Expanded Demo Database",
-  "version": "2.0",
+  "database_name": "Feed Niamh Recipe Box",
+  "version": "3.0",
   "record_count": 120,
   "recipes": [
     {
@@ -40,7 +40,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-on-toast",
@@ -56,8 +56,7 @@
       ],
       "preferences": [
         "super_fast",
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 8,
       "difficulty": "Almost effortless",
@@ -81,7 +80,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "beans-on-toast",
@@ -96,8 +95,7 @@
       ],
       "preferences": [
         "super_fast",
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 7,
       "difficulty": "Almost effortless",
@@ -122,7 +120,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheesy-beans-on-toast",
@@ -164,7 +162,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "tomato-soup-bread",
@@ -179,8 +177,7 @@
       ],
       "preferences": [
         "super_fast",
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 6,
       "difficulty": "Almost effortless",
@@ -205,7 +202,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-pickle-sandwich",
@@ -221,8 +218,7 @@
       "preferences": [
         "super_fast",
         "minimal_washing_up",
-        "no_cook",
-        "under_500"
+        "no_cook"
       ],
       "time_minutes": 5,
       "difficulty": "No cooking",
@@ -249,7 +245,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-pickled-onion-sandwich",
@@ -265,8 +261,7 @@
       "preferences": [
         "super_fast",
         "minimal_washing_up",
-        "no_cook",
-        "under_500"
+        "no_cook"
       ],
       "time_minutes": 5,
       "difficulty": "No cooking",
@@ -291,7 +286,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-gherkin-sandwich",
@@ -307,8 +302,7 @@
       "preferences": [
         "super_fast",
         "minimal_washing_up",
-        "no_cook",
-        "under_500"
+        "no_cook"
       ],
       "time_minutes": 5,
       "difficulty": "No cooking",
@@ -333,7 +327,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-pickled-red-cabbage-sandwich",
@@ -349,8 +343,7 @@
       "preferences": [
         "super_fast",
         "minimal_washing_up",
-        "no_cook",
-        "under_500"
+        "no_cook"
       ],
       "time_minutes": 5,
       "difficulty": "No cooking",
@@ -376,7 +369,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-crackers-pickles-plate",
@@ -392,8 +385,7 @@
       "preferences": [
         "super_fast",
         "minimal_washing_up",
-        "no_cook",
-        "under_500"
+        "no_cook"
       ],
       "time_minutes": 5,
       "difficulty": "No cooking",
@@ -420,7 +412,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "ploughman-s-plate",
@@ -464,7 +456,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "toasted-bagel-cheddar",
@@ -479,8 +471,7 @@
       ],
       "preferences": [
         "super_fast",
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 6,
       "difficulty": "Almost effortless",
@@ -506,7 +497,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-pickle-toastie",
@@ -547,7 +538,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-pickled-onion-toastie",
@@ -588,7 +579,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "pitta-hummus-plate",
@@ -604,8 +595,7 @@
       "preferences": [
         "super_fast",
         "minimal_washing_up",
-        "no_cook",
-        "under_500"
+        "no_cook"
       ],
       "time_minutes": 5,
       "difficulty": "No cooking",
@@ -633,7 +623,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "fruit-greek-yoghurt-bowl",
@@ -649,8 +639,7 @@
       "preferences": [
         "super_fast",
         "minimal_washing_up",
-        "no_cook",
-        "under_500"
+        "no_cook"
       ],
       "time_minutes": 5,
       "difficulty": "No cooking",
@@ -676,7 +665,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cereal-for-dinner",
@@ -691,8 +680,7 @@
       "preferences": [
         "super_fast",
         "minimal_washing_up",
-        "no_cook",
-        "under_500"
+        "no_cook"
       ],
       "time_minutes": 3,
       "difficulty": "No cooking",
@@ -718,7 +706,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jason-s-super-shake",
@@ -762,7 +750,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jacket-potato-cheese",
@@ -777,14 +765,13 @@
         "comfort"
       ],
       "preferences": [
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 12,
       "difficulty": "Very easy",
       "calories_estimate": 470,
       "protein_g_estimate": 20,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Fluffy potato, melting cheddar. Two ingredients, zero decisions, total comfort.",
       "ingredients": [
         "1 baking potato",
         "50g cheddar"
@@ -802,7 +789,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jacket-potato-beans",
@@ -817,14 +804,13 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 12,
       "difficulty": "Very easy",
       "calories_estimate": 455,
       "protein_g_estimate": 18,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "A jacket and beans is filling, warm and asks almost nothing of you.",
       "ingredients": [
         "1 baking potato",
         "Half a tin baked beans"
@@ -843,7 +829,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jacket-potato-cheese-beans",
@@ -865,7 +851,7 @@
       "difficulty": "Very easy",
       "calories_estimate": 550,
       "protein_g_estimate": 25,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "The holy trinity. Beans first so the cheese melts on top.",
       "ingredients": [
         "1 baking potato",
         "Half a tin baked beans",
@@ -885,7 +871,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jacket-potato-cheese-coleslaw",
@@ -907,7 +893,7 @@
       "difficulty": "Very easy",
       "calories_estimate": 530,
       "protein_g_estimate": 18,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Hot potato, melting cheese, cold crunchy coleslaw. The contrast is the whole point.",
       "ingredients": [
         "1 baking potato",
         "45g cheddar",
@@ -927,7 +913,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jacket-potato-cheese-coleslaw-cheese",
@@ -949,7 +935,7 @@
       "difficulty": "Very easy",
       "calories_estimate": 610,
       "protein_g_estimate": 24,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "The one and only. Cheese, coleslaw, more cheese. Structural integrity not guaranteed.",
       "ingredients": [
         "1 baking potato",
         "60g cheddar, divided",
@@ -971,7 +957,7 @@
       "niamh_edition": true,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jacket-potato-cottage-cheese-chives",
@@ -987,14 +973,13 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 12,
       "difficulty": "Very easy",
       "calories_estimate": 430,
       "protein_g_estimate": 29,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Light, peppery and properly filling. Lots of protein for very little effort.",
       "ingredients": [
         "1 baking potato",
         "150g cottage cheese",
@@ -1015,7 +1000,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jacket-potato-cottage-cheese-sweetcorn",
@@ -1031,14 +1016,13 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 12,
       "difficulty": "Very easy",
       "calories_estimate": 455,
       "protein_g_estimate": 29,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Cool, creamy cottage cheese with little pops of sweetcorn on a hot potato.",
       "ingredients": [
         "1 baking potato",
         "150g cottage cheese",
@@ -1058,7 +1042,7 @@
       "niamh_edition": false,
       "fed_is_best": true,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "jacket-potato-crispy-halloumi",
@@ -1079,7 +1063,7 @@
       "difficulty": "Very easy",
       "calories_estimate": 585,
       "protein_g_estimate": 27,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Squeaky golden halloumi on a fluffy potato. A jacket potato that's been promoted.",
       "ingredients": [
         "1 baking potato",
         "80g halloumi",
@@ -1099,7 +1083,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "sweet-potato-halloumi",
@@ -1120,7 +1104,7 @@
       "difficulty": "Easy",
       "calories_estimate": 560,
       "protein_g_estimate": 25,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Sweet and salty, soft and crisp. Feels a bit fancy for something so easy.",
       "ingredients": [
         "1 sweet potato",
         "80g halloumi",
@@ -1141,7 +1125,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "sweet-potato-cottage-cheese",
@@ -1156,14 +1140,13 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up",
-        "under_500"
+        "minimal_washing_up"
       ],
       "time_minutes": 22,
       "difficulty": "Easy",
       "calories_estimate": 440,
       "protein_g_estimate": 28,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Soft sweet potato with cool cottage cheese. Gentle, filling and good for you.",
       "ingredients": [
         "1 sweet potato",
         "150g cottage cheese",
@@ -1182,7 +1165,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "ploughman-s-jacket-potato",
@@ -1203,7 +1186,7 @@
       "difficulty": "Easy",
       "calories_estimate": 565,
       "protein_g_estimate": 22,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Everything good about a ploughman's, piled onto a hot potato.",
       "ingredients": [
         "1 baking potato",
         "45g cheddar",
@@ -1225,7 +1208,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-coleslaw-pickle-jacket",
@@ -1246,7 +1229,7 @@
       "difficulty": "Easy",
       "calories_estimate": 640,
       "protein_g_estimate": 27,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Crispy halloumi, cool coleslaw and a sharp hit of pickle. Every texture going.",
       "ingredients": [
         "1 baking potato",
         "70g halloumi",
@@ -1267,7 +1250,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "mexican-bean-jacket-potato",
@@ -1288,7 +1271,7 @@
       "difficulty": "Easy",
       "calories_estimate": 520,
       "protein_g_estimate": 22,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Smoky beans, sweetcorn and salsa make a jacket potato feel like a night out.",
       "ingredients": [
         "1 baking potato",
         "120g mixed beans",
@@ -1310,7 +1293,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "greek-style-jacket-potato",
@@ -1331,7 +1314,7 @@
       "difficulty": "Easy",
       "calories_estimate": 510,
       "protein_g_estimate": 24,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Halloumi, cucumber, tomato and yoghurt make the potato taste like a holiday.",
       "ingredients": [
         "1 baking potato",
         "60g halloumi",
@@ -1352,7 +1335,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "loaded-wedges-cheese-coleslaw",
@@ -1367,13 +1350,14 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 22,
       "difficulty": "Easy",
       "calories_estimate": 650,
       "protein_g_estimate": 22,
-      "why": "A familiar potato-based meal with satisfying toppings and very little decision-making.",
+      "why": "Crispy wedges, melted cheese, coleslaw and pickled onions. Basically chip-shop heaven.",
       "ingredients": [
         "250g potato wedges",
         "50g cheddar",
@@ -1394,7 +1378,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "plain-rice-quorn-pieces",
@@ -1410,7 +1394,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast"
+        "super_fast",
+        "freezer_staples"
       ],
       "time_minutes": 15,
       "difficulty": "Very easy",
@@ -1418,27 +1403,28 @@
       "protein_g_estimate": 32,
       "why": "Microwave rice and seasoned Quorn pieces make a simple, recognisable meal with sauce optional.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "120g vegetarian Quorn pieces",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "120g frozen Quorn pieces",
+        "Handful of frozen peas or sweetcorn",
+        "1 tsp soy sauce or a pinch of salt",
+        "Sweet chilli or ketchup, optional"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Cook the Quorn pieces in a little oil in a frying pan for 8 minutes until golden. You can cook them from frozen.",
+        "Add the peas or sweetcorn for the last 2 minutes.",
+        "Microwave the rice pouch for 2 minutes.",
+        "Tip the rice into a bowl, top with the Quorn and veg, and season with soy sauce or a squeeze of sauce."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Air fry the Quorn at 200°C for 10 minutes, so there's no pan to wash.",
+        "Rice pouches are worth keeping in the cupboard."
       ],
       "emoji": "🍚",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "sweet-chilli-quorn-rice-bowl",
@@ -1454,7 +1440,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 16,
       "difficulty": "Very easy",
@@ -1462,27 +1449,29 @@
       "protein_g_estimate": 33,
       "why": "Sweet chilli sauce gives rice and Quorn pieces an easy familiar flavour.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "120g vegetarian Quorn pieces",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "120g frozen Quorn pieces",
+        "½ red pepper, sliced",
+        "Handful of frozen sweetcorn",
+        "2 tbsp sweet chilli sauce",
+        "1 tsp soy sauce"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the Quorn pieces in a little oil for 6 minutes.",
+        "Add the pepper and sweetcorn and cook for another 3 minutes.",
+        "Stir in the sweet chilli and soy sauce and let it go sticky for 1 minute.",
+        "Microwave the rice for 2 minutes, then pile everything into a bowl."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Use a bag of frozen sliced peppers.",
+        "Add an extra squeeze of sweet chilli on top. It's allowed."
       ],
       "emoji": "🍚",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "teriyaki-quorn-rice-bowl",
@@ -1497,7 +1486,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 20,
       "difficulty": "Easy",
@@ -1505,27 +1495,29 @@
       "protein_g_estimate": 34,
       "why": "A straightforward teriyaki bowl with Quorn pieces and crunchy vegetables.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "120g vegetarian Quorn pieces",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "120g frozen Quorn pieces",
+        "Handful of tenderstem broccoli or frozen green beans",
+        "½ carrot, grated or ribboned",
+        "3 tbsp teriyaki sauce",
+        "Sesame seeds, optional"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the Quorn pieces in a little oil for 6 minutes.",
+        "Add the broccoli with a splash of water, cover and steam for 3 minutes.",
+        "Pour in the teriyaki sauce and toss for 1 minute until glossy.",
+        "Microwave the rice for 2 minutes. Serve topped with the teriyaki mix, carrot and sesame seeds."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Shop-bought teriyaki sauce is completely fine.",
+        "Frozen stir-fry veg works instead of broccoli and carrot."
       ],
-      "emoji": "🍚",
+      "emoji": "🥢",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "quorn-fajita-rice-bowl",
@@ -1540,7 +1532,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 22,
       "difficulty": "Easy",
@@ -1548,27 +1541,30 @@
       "protein_g_estimate": 35,
       "why": "Fajita-spiced Quorn pieces, peppers and rice make a filling weeknight bowl.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "120g vegetarian Quorn pieces",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "120g frozen Quorn pieces",
+        "1 pepper, sliced",
+        "½ onion, sliced",
+        "2 tsp mild fajita seasoning",
+        "2 tbsp salsa",
+        "Grated cheddar or sour cream, optional"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the onion and pepper in a little oil for 4 minutes.",
+        "Add the Quorn pieces and cook for 6 minutes.",
+        "Sprinkle over the fajita seasoning with a splash of water and stir for 1 minute.",
+        "Microwave the rice, then build the bowl: rice, fajita mix, salsa, cheese."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Frozen sliced peppers and onions save all the chopping.",
+        "Halve the seasoning if the packet runs hot."
       ],
-      "emoji": "🍚",
+      "emoji": "🌶️",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "quorn-katsu-rice-bowl",
@@ -1584,7 +1580,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 35,
       "difficulty": "Worth the effort",
@@ -1592,27 +1589,37 @@
       "protein_g_estimate": 36,
       "why": "Crispy Quorn pieces, rice and homemade mild katsu sauce make a proper fakeaway.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "120g vegetarian Quorn pieces",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "150g frozen breaded Quorn fillets or nuggets",
+        "1 tbsp oil",
+        "1 small onion, chopped",
+        "1 carrot, chopped",
+        "1 garlic clove",
+        "1 tbsp mild curry powder",
+        "1 tbsp plain flour",
+        "300ml vegetable stock",
+        "1 tsp honey",
+        "1 tsp soy sauce",
+        "Cucumber or pickled red cabbage, to serve"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Put the breaded Quorn in the oven or air fryer according to the packet, usually 15–20 minutes.",
+        "For the sauce, fry the onion and carrot in oil for 8 minutes until soft.",
+        "Add the garlic and curry powder for 1 minute, then stir in the flour.",
+        "Slowly whisk in the stock and simmer for 10 minutes until thickened.",
+        "Stir in the honey and soy, then blend smooth or sieve if you like.",
+        "Slice the Quorn over hot rice, pour over the sauce and add cucumber or pickled cabbage."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "A block of shop-bought katsu paste turns this into a 15-minute dinner.",
+        "The sauce freezes perfectly, so make double."
       ],
-      "emoji": "🍚",
+      "emoji": "🍛",
       "legend": true,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-rice-bowl",
@@ -1637,27 +1644,26 @@
       "protein_g_estimate": 26,
       "why": "Plain rice and crispy halloumi are simple, filling and easy to customise.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "80g halloumi",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "80g halloumi, sliced",
+        "Cucumber, tomato or pickles",
+        "Sweet chilli, hot honey or ketchup"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Dry-fry the halloumi in a non-stick pan for 2 minutes per side until golden.",
+        "Microwave the rice for 2 minutes.",
+        "Pile the rice in a bowl with the halloumi, your chosen crunch and a drizzle of sauce."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "The air fryer does halloumi beautifully at 200°C for 8 minutes.",
+        "Pre-sliced halloumi skips the knife."
       ],
       "emoji": "🍚",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-sweetcorn-rice-bowl",
@@ -1674,7 +1680,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast"
+        "super_fast",
+        "freezer_staples"
       ],
       "time_minutes": 15,
       "difficulty": "Very easy",
@@ -1682,27 +1689,28 @@
       "protein_g_estimate": 28,
       "why": "Sweetcorn adds gentle sweetness and crunch to rice and halloumi.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "80g halloumi",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "80g halloumi, cubed",
+        "80g frozen sweetcorn",
+        "Squeeze of lime or lemon",
+        "Sweet chilli or salsa"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the halloumi cubes for 4 minutes, turning until golden on most sides.",
+        "Add the sweetcorn to the pan for the last 2 minutes so it chars a little.",
+        "Microwave the rice, tip into a bowl and top with the halloumi and corn.",
+        "Finish with a squeeze of lime and your sauce."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Tinned sweetcorn works too. Drain it well.",
+        "Use one pan for everything."
       ],
       "emoji": "🍚",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-pea-rice-bowl",
@@ -1719,7 +1727,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast"
+        "super_fast",
+        "freezer_staples"
       ],
       "time_minutes": 15,
       "difficulty": "Very easy",
@@ -1727,27 +1736,29 @@
       "protein_g_estimate": 29,
       "why": "Rice, peas and halloumi make a freezer-friendly dinner.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "80g halloumi",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "80g halloumi, cubed",
+        "80g frozen peas",
+        "Small knob of butter",
+        "Squeeze of lemon",
+        "Black pepper"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the halloumi cubes for 4 minutes until golden, then set aside.",
+        "Add the peas and butter to the same pan with a splash of water and cook for 3 minutes.",
+        "Stir the rice into the peas and heat through for 2 minutes.",
+        "Top with halloumi, lemon and plenty of black pepper."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Frozen peas are the easiest veg you'll ever cook.",
+        "Pre-cooked rice pouches can be stirred straight into the pan."
       ],
       "emoji": "🍚",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "sweet-chilli-halloumi-rice-bowl",
@@ -1771,27 +1782,29 @@
       "protein_g_estimate": 27,
       "why": "Sweet chilli, crisp halloumi and rice feel like a treat without much work.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "80g halloumi",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "80g halloumi, cubed",
+        "½ pepper, chopped",
+        "Spring onion, optional",
+        "2 tbsp sweet chilli sauce",
+        "Cucumber, to serve"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the halloumi and pepper together for 5 minutes until golden.",
+        "Turn the heat down, add the sweet chilli and toss for 30 seconds until sticky.",
+        "Microwave the rice and spoon it into a bowl.",
+        "Top with the sticky halloumi, cucumber and spring onion."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Take the pan off the heat before adding sauce so it doesn't catch.",
+        "Frozen chopped peppers are your friend here."
       ],
-      "emoji": "🍚",
+      "emoji": "🌶️",
       "legend": true,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "greek-halloumi-rice-bowl",
@@ -1814,27 +1827,31 @@
       "protein_g_estimate": 29,
       "why": "Halloumi, rice, cucumber, tomato and yoghurt make a fresh filling bowl.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "80g halloumi",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "80g halloumi, sliced",
+        "¼ cucumber, chopped",
+        "Handful of cherry tomatoes, halved",
+        "Few olives, optional",
+        "3 tbsp Greek yoghurt",
+        "Squeeze of lemon",
+        "Pinch of dried oregano"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Mix the yoghurt with lemon, oregano and a pinch of salt.",
+        "Fry the halloumi for 2 minutes per side until golden.",
+        "Microwave the rice for 2 minutes.",
+        "Build the bowl: rice, cucumber, tomatoes, olives, halloumi and a big spoonful of yoghurt."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Shop-bought tzatziki replaces the yoghurt sauce.",
+        "Pre-chopped salad pots save time."
       ],
-      "emoji": "🍚",
+      "emoji": "🫒",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "mexican-bean-rice-bowl",
@@ -1849,7 +1866,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 20,
       "difficulty": "Easy",
@@ -1857,27 +1875,29 @@
       "protein_g_estimate": 22,
       "why": "Rice, beans, sweetcorn and salsa create a familiar burrito-bowl dinner.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "120g mixed or black beans",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "½ tin black or mixed beans, drained",
+        "80g sweetcorn",
+        "1 tsp mild fajita seasoning",
+        "3 tbsp salsa",
+        "Grated cheddar, optional",
+        "Tortilla chips for crunch, optional"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Warm the beans and sweetcorn in a pan with the seasoning and a splash of water for 4 minutes.",
+        "Microwave the rice.",
+        "Build the bowl: rice, beans, salsa, cheese and a few crushed tortilla chips on top."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Mexican-style rice pouches add extra flavour for no extra work.",
+        "Microwave the beans in a bowl to skip the pan."
       ],
-      "emoji": "🍚",
+      "emoji": "🌮",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "vegetarian-burrito-bowl",
@@ -1892,7 +1912,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 28,
       "difficulty": "Easy",
@@ -1900,27 +1921,34 @@
       "protein_g_estimate": 25,
       "why": "A complete burrito bowl with rice, beans, vegetables, salsa and cheese.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "120g mixed or black beans",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "½ tin black beans, drained",
+        "1 pepper, sliced",
+        "½ onion, sliced",
+        "80g sweetcorn",
+        "2 tsp mild fajita seasoning",
+        "3 tbsp salsa",
+        "40g grated cheddar",
+        "Lettuce, shredded",
+        "Sour cream or Greek yoghurt",
+        "Squeeze of lime"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the pepper and onion in a little oil for 6 minutes until soft and a bit charred.",
+        "Add the beans, sweetcorn and seasoning with a splash of water and cook for 4 minutes.",
+        "Stir a squeeze of lime through the microwaved rice.",
+        "Build the bowl in sections: rice, beans, lettuce, salsa, cheese and sour cream."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Use a guacamole pot for the full burrito experience.",
+        "Leftover filling makes tomorrow's wrap."
       ],
-      "emoji": "🍚",
+      "emoji": "🌯",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "mediterranean-chickpea-rice-bowl",
@@ -1943,27 +1971,32 @@
       "protein_g_estimate": 20,
       "why": "Chickpeas, rice, cucumber, tomato and lemon dressing make a balanced bowl.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "120g chickpeas",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "½ tin chickpeas, drained",
+        "¼ cucumber, chopped",
+        "Cherry tomatoes, halved",
+        "¼ red onion, finely sliced",
+        "1 tbsp olive oil",
+        "Juice of ½ lemon",
+        "1 tsp smoked paprika",
+        "2 tbsp hummus"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the chickpeas in a little oil with the paprika for 5 minutes until crispy.",
+        "Mix the cucumber, tomato and onion with the olive oil, lemon and a pinch of salt.",
+        "Microwave the rice.",
+        "Build the bowl: rice, salad, crispy chickpeas and a spoonful of hummus."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Air fry the chickpeas at 200°C for 12 minutes for extra crunch.",
+        "A pot of shop-bought salad works fine."
       ],
-      "emoji": "🍚",
+      "emoji": "🥗",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "falafel-rice-bowl",
@@ -1978,7 +2011,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 20,
       "difficulty": "Easy",
@@ -1986,27 +2020,30 @@
       "protein_g_estimate": 22,
       "why": "Falafel, rice and crunchy salad are dependable and satisfying.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "4 to 5 falafel",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "4–5 falafel",
+        "Lettuce or salad leaves",
+        "Cucumber and tomato",
+        "2 tbsp hummus",
+        "Squeeze of lemon",
+        "Pickles, optional"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Heat the falafel in the oven or air fryer for 10 minutes.",
+        "Chop the cucumber and tomato.",
+        "Microwave the rice.",
+        "Build the bowl: rice, salad, falafel, hummus, lemon and pickles."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Ready-to-eat falafel can be eaten cold if you're out of energy.",
+        "Bagged salad means no chopping at all."
       ],
-      "emoji": "🍚",
+      "emoji": "🧆",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "greek-falafel-rice-bowl",
@@ -2021,7 +2058,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 22,
       "difficulty": "Easy",
@@ -2029,27 +2067,30 @@
       "protein_g_estimate": 23,
       "why": "Falafel, rice, pickled red cabbage and yoghurt make a colourful Greek-style meal.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "4 to 5 falafel",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "4–5 falafel",
+        "3 tbsp pickled red cabbage, drained",
+        "¼ cucumber, chopped",
+        "Cherry tomatoes",
+        "3 tbsp Greek yoghurt or tzatziki",
+        "Pinch of dried mint or oregano"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Warm the falafel in the oven or air fryer for 10 minutes.",
+        "Stir the mint or oregano into the yoghurt.",
+        "Microwave the rice.",
+        "Build a colourful bowl: rice, cabbage, cucumber, tomatoes, falafel and yoghurt."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Shop-bought tzatziki saves a step.",
+        "Jarred pickled red cabbage lasts for ages in the fridge."
       ],
-      "emoji": "🍚",
+      "emoji": "🧆",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cottage-cheese-sweetcorn-rice-bowl",
@@ -2065,8 +2106,7 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast",
-        "under_500"
+        "super_fast"
       ],
       "time_minutes": 12,
       "difficulty": "Very easy",
@@ -2074,27 +2114,28 @@
       "protein_g_estimate": 30,
       "why": "Warm rice with cottage cheese and sweetcorn is simple, mild and protein-friendly.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
+        "1 microwave rice pouch (250g)",
         "150g cottage cheese",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "80g sweetcorn",
+        "Chives or spring onion",
+        "Black pepper",
+        "Sweet chilli, optional"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Microwave the rice and sweetcorn together in a bowl for 2 minutes.",
+        "Spoon over the cottage cheese.",
+        "Top with chives, black pepper and a drizzle of sweet chilli if you like."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Literally one bowl and a spoon.",
+        "Tinned sweetcorn doesn't need cooking."
       ],
       "emoji": "🍚",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "pesto-vegetable-rice-bowl",
@@ -2109,7 +2150,7 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "under_500"
+        "freezer_staples"
       ],
       "time_minutes": 18,
       "difficulty": "Easy",
@@ -2117,27 +2158,29 @@
       "protein_g_estimate": 15,
       "why": "Pesto gives rice, peppers, peas and sweetcorn a familiar savoury lift.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "Peppers, peas or sweetcorn",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "1 microwave rice pouch (250g)",
+        "½ pepper, chopped",
+        "Handful of frozen peas",
+        "Handful of sweetcorn",
+        "1½ tbsp green pesto",
+        "Grated cheese, optional"
       ],
       "method": [
-        "Cook or heat the rice.",
-        "Cook or heat the main protein and vegetables.",
-        "Build the bowl and add the sauce or seasoning."
+        "Fry the pepper in a little oil for 3 minutes.",
+        "Add the peas and sweetcorn for 2 minutes.",
+        "Stir in the rice, heat through for 2 minutes, then take off the heat.",
+        "Stir through the pesto and top with cheese."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Frozen mixed veg works instead of chopping.",
+        "Stir in pesto off the heat so it stays bright."
       ],
-      "emoji": "🍚",
+      "emoji": "🌿",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-tomato-sauce-rice-bake",
@@ -2160,27 +2203,36 @@
       "protein_g_estimate": 24,
       "why": "Rice baked in homemade tomato sauce with vegetables and mozzarella is cosy and substantial.",
       "ingredients": [
-        "1 microwave rice pouch or 150g cooked rice",
-        "Peppers, peas or sweetcorn",
-        "Preferred vegetables or pickles",
-        "Sauce or seasoning named in the recipe"
+        "150g long-grain rice (or 2 microwave pouches)",
+        "1 tbsp olive oil",
+        "1 onion, chopped",
+        "1 pepper, chopped",
+        "1 courgette, chopped",
+        "2 garlic cloves",
+        "1 tin chopped tomatoes",
+        "1 tsp dried oregano",
+        "200ml vegetable stock",
+        "1 ball mozzarella",
+        "30g cheddar"
       ],
       "method": [
-        "Make or warm the tomato sauce.",
-        "Combine with cooked rice and vegetables.",
-        "Top with mozzarella and bake until bubbling."
+        "Heat the oven to 200°C.",
+        "Fry the onion, pepper and courgette in oil for 8 minutes until soft.",
+        "Add the garlic for 1 minute, then the tomatoes, oregano and stock. Simmer for 10 minutes.",
+        "Stir in the rice. If using raw rice, simmer covered for 12 minutes first.",
+        "Tip into an ovenproof dish, tear over the mozzarella and scatter with cheddar.",
+        "Bake for 15 minutes until bubbling and golden."
       ],
       "shortcuts": [
-        "Use microwave rice.",
-        "Use frozen vegetables.",
-        "Keep sauce optional where preferred."
+        "Use a jar of tomato sauce and microwave rice on lower-energy nights.",
+        "Makes 2–3 portions. The leftovers reheat beautifully."
       ],
-      "emoji": "🍚",
+      "emoji": "🧀",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-crunch-wrap",
@@ -2197,8 +2249,7 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast",
-        "under_500"
+        "super_fast"
       ],
       "time_minutes": 12,
       "difficulty": "Very easy",
@@ -2206,27 +2257,29 @@
       "protein_g_estimate": 26,
       "why": "Crispy halloumi, crunchy salad and sweet chilli deliver proper food without turning dinner into a project.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 large tortilla wrap",
+        "80g halloumi, sliced",
+        "Shredded lettuce",
+        "Few slices of cucumber",
+        "1 tbsp sweet chilli sauce",
+        "Handful of tortilla chips or crisps"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Fry the halloumi for 2 minutes per side until golden.",
+        "Lay out the wrap and pile the halloumi, lettuce, cucumber, sweet chilli and crushed chips in the middle.",
+        "Fold the edges in to make a parcel.",
+        "Toast it seam-side down in the hot pan for 2 minutes until crisp, then flip for 1 minute."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "The crisps inside are not optional. They make it.",
+        "Bagged shredded lettuce means no chopping."
       ],
       "emoji": "🌯",
       "legend": true,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "sweet-chilli-halloumi-wrap",
@@ -2251,27 +2304,29 @@
       "protein_g_estimate": 25,
       "why": "Sweet, salty and crisp, with exactly enough sauce to feel exciting.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 tortilla wrap",
+        "80g halloumi, cut into fingers",
+        "2 tbsp sweet chilli sauce",
+        "Lettuce",
+        "½ pepper, finely sliced",
+        "Spoonful of Greek yoghurt or mayo"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Fry the halloumi fingers for 4 minutes, turning, until golden.",
+        "Take off the heat and toss in 1 tbsp sweet chilli.",
+        "Warm the wrap in the pan for 20 seconds.",
+        "Spread with yoghurt, add lettuce, pepper and halloumi, drizzle with more sweet chilli and roll up."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Pre-sliced halloumi skips the knife.",
+        "Microwave the wrap for 10 seconds instead of using the pan."
       ],
       "emoji": "🌯",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "greek-halloumi-wrap",
@@ -2295,27 +2350,28 @@
       "protein_g_estimate": 28,
       "why": "A fresh herby wrap with crunchy vegetables and halloumi.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 tortilla wrap or flatbread",
+        "80g halloumi, sliced",
+        "Cucumber and tomato, chopped",
+        "Few slices of red onion",
+        "2 tbsp tzatziki",
+        "Pinch of dried oregano"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Fry the halloumi for 2 minutes per side.",
+        "Warm the wrap.",
+        "Spread with tzatziki, add the salad and halloumi, sprinkle over oregano and roll up."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Shop-bought tzatziki is perfect here.",
+        "Swap in pickled onions for red onion."
       ],
-      "emoji": "🌯",
+      "emoji": "🫒",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-pickled-red-cabbage-wrap",
@@ -2339,27 +2395,27 @@
       "protein_g_estimate": 26,
       "why": "Crispy halloumi and sharp crunchy cabbage make a lively wrap.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 tortilla wrap",
+        "80g halloumi, sliced",
+        "3 tbsp pickled red cabbage, drained",
+        "Lettuce",
+        "1 tbsp mayo or hummus"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Fry the halloumi for 2 minutes per side until golden.",
+        "Warm the wrap.",
+        "Spread with mayo or hummus, then layer lettuce, halloumi and cabbage. Roll tightly."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Drain the cabbage really well so the wrap doesn't go soggy.",
+        "Wrap in foil to eat on the sofa."
       ],
       "emoji": "🌯",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-gherkin-burger-wrap",
@@ -2382,27 +2438,31 @@
       "protein_g_estimate": 28,
       "why": "Halloumi, gherkins and burger-style salad create a familiar handheld dinner.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 large tortilla wrap",
+        "80g halloumi, sliced",
+        "2 gherkins, sliced",
+        "Shredded lettuce",
+        "1 slice cheddar or burger cheese",
+        "1 tbsp ketchup",
+        "1 tbsp mayo",
+        "Few slices of onion, optional"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Mix the ketchup and mayo to make burger sauce.",
+        "Fry the halloumi for 2 minutes per side, adding the cheese on top for the last minute.",
+        "Spread the sauce across the wrap and add lettuce, gherkins, onion and the cheesy halloumi.",
+        "Fold into a parcel and toast seam-side down for 2 minutes until crisp."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "A squeeze of shop-bought burger sauce does the job.",
+        "It tastes like a takeaway burger in wrap form."
       ],
-      "emoji": "🌯",
+      "emoji": "🍔",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "crispy-halloumi-pitta",
@@ -2427,27 +2487,27 @@
       "protein_g_estimate": 27,
       "why": "Hot halloumi in warm pitta with fresh crunch is a dependable dinner.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 large pitta",
+        "80g halloumi, sliced",
+        "Lettuce",
+        "Cucumber and tomato",
+        "Sweet chilli or hummus"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Fry the halloumi for 2 minutes per side until golden.",
+        "Toast the pitta and split it open.",
+        "Stuff with salad, halloumi and your sauce."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Toast the pitta while the halloumi cooks.",
+        "Bagged salad means no chopping."
       ],
       "emoji": "🥙",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "loaded-halloumi-pitta",
@@ -2470,27 +2530,30 @@
       "protein_g_estimate": 29,
       "why": "A generously filled pitta with halloumi, salad, pickles and sauce.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 large pitta",
+        "80g halloumi, sliced",
+        "2 tbsp hummus",
+        "Lettuce, cucumber and tomato",
+        "Pickled red cabbage or pickled onions",
+        "Gherkins",
+        "Sweet chilli or garlic sauce"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Fry the halloumi until golden on both sides.",
+        "Toast the pitta and open it up.",
+        "Spread hummus inside, then stuff with salad, pickles and halloumi.",
+        "Finish with a drizzle of sauce. Overflowing is the goal."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Use whatever pickles are already open in the fridge.",
+        "Garlic mayo makes a great garlic sauce."
       ],
       "emoji": "🥙",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-quesadilla",
@@ -2515,27 +2578,28 @@
       "protein_g_estimate": 30,
       "why": "Crisp tortilla, cheddar and halloumi make serious comfort food.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "2 tortilla wraps",
+        "60g halloumi, finely chopped or grated",
+        "40g grated cheddar",
+        "2 tbsp sweetcorn",
+        "Salsa or sour cream, to dip"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Scatter the cheddar, halloumi and sweetcorn over one wrap and put the other wrap on top.",
+        "Cook in a dry frying pan over a medium heat for 3 minutes until golden.",
+        "Slide onto a plate, flip back into the pan and cook for 2–3 minutes more.",
+        "Cut into wedges and dip in salsa."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Grate the halloumi so it melts with the cheddar.",
+        "The sandwich press works brilliantly for this."
       ],
-      "emoji": "🥪",
+      "emoji": "🫓",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "quorn-fajita-wrap",
@@ -2550,7 +2614,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 20,
       "difficulty": "Easy",
@@ -2558,27 +2623,31 @@
       "protein_g_estimate": 34,
       "why": "Fajita-spiced Quorn pieces and peppers make a recognisable quick dinner.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "120g vegetarian Quorn pieces",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "2 tortilla wraps",
+        "100g frozen Quorn pieces",
+        "1 pepper, sliced",
+        "½ onion, sliced",
+        "1½ tsp mild fajita seasoning",
+        "Salsa",
+        "Grated cheddar",
+        "Lettuce"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Fry the Quorn, pepper and onion in oil for 8 minutes.",
+        "Add the seasoning and a splash of water and cook for 2 minutes more.",
+        "Warm the wraps.",
+        "Fill with the fajita mix, salsa, cheese and lettuce, then roll."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Frozen sliced peppers and onions save all the chopping.",
+        "A fajita kit includes the wraps, salsa and seasoning."
       ],
       "emoji": "🌯",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "sweet-chilli-quorn-wrap",
@@ -2595,7 +2664,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast"
+        "super_fast",
+        "freezer_staples"
       ],
       "time_minutes": 15,
       "difficulty": "Very easy",
@@ -2603,27 +2673,28 @@
       "protein_g_estimate": 32,
       "why": "Quorn pieces, crunchy salad and sweet chilli sauce make a fast filling wrap.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "120g vegetarian Quorn pieces",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 tortilla wrap",
+        "100g frozen Quorn pieces",
+        "2 tbsp sweet chilli sauce",
+        "Lettuce",
+        "Cucumber, cut into sticks",
+        "Grated carrot, optional"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Fry the Quorn pieces in a little oil for 8 minutes until golden.",
+        "Take off the heat and toss in the sweet chilli.",
+        "Fill the wrap with lettuce, cucumber, carrot and the Quorn. Roll up."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Air fry the Quorn from frozen at 200°C for 10 minutes.",
+        "Bagged salad means no chopping."
       ],
       "emoji": "🌯",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "falafel-hummus-wrap",
@@ -2640,8 +2711,7 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast",
-        "under_500"
+        "super_fast"
       ],
       "time_minutes": 12,
       "difficulty": "Very easy",
@@ -2649,27 +2719,28 @@
       "protein_g_estimate": 18,
       "why": "Falafel, hummus and salad make a reliable vegetarian wrap.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
+        "1 tortilla wrap",
         "4 falafel",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "3 tbsp hummus",
+        "Lettuce",
+        "Cucumber and tomato",
+        "Pickled red cabbage or gherkins, optional"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Warm the falafel in the microwave, oven or air fryer.",
+        "Spread the hummus all over the wrap.",
+        "Add the salad and pickles, squash the falafel on top and roll up tightly."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Falafel are fine cold if heating feels like too much.",
+        "Cut it in half for neater eating."
       ],
-      "emoji": "🌯",
+      "emoji": "🧆",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "falafel-pickled-cabbage-pitta",
@@ -2693,27 +2764,28 @@
       "protein_g_estimate": 19,
       "why": "Falafel and pickled red cabbage bring crunch and colour to a warm pitta.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
+        "1 large pitta",
         "4 falafel",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "3 tbsp pickled red cabbage, drained",
+        "2 tbsp hummus or yoghurt",
+        "Cucumber",
+        "Sweet chilli, optional"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Warm the falafel for 8–10 minutes in the oven or air fryer.",
+        "Toast the pitta and open it up.",
+        "Spread with hummus, then stuff with cucumber, cabbage and falafel."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Keep a jar of pickled red cabbage in the fridge. It goes with everything here.",
+        "Squash the falafel slightly so they stay put."
       ],
       "emoji": "🥙",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "ploughman-s-wrap",
@@ -2729,8 +2801,7 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast",
-        "under_500"
+        "super_fast"
       ],
       "time_minutes": 10,
       "difficulty": "Very easy",
@@ -2738,27 +2809,28 @@
       "protein_g_estimate": 21,
       "why": "Cheddar, pickle, apple and leaves turn a ploughman’s into an easy wrap.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "Cheddar or mozzarella as named",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 tortilla wrap",
+        "50g mature cheddar, sliced",
+        "1 tbsp pickle",
+        "½ apple, thinly sliced",
+        "Salad leaves",
+        "Pickled onions on the side"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Spread the pickle over the wrap.",
+        "Layer the cheese, apple and leaves.",
+        "Roll up tightly, cut in half and serve with pickled onions."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "No cooking needed.",
+        "Pre-sliced cheese makes it even faster."
       ],
-      "emoji": "🌯",
+      "emoji": "🍎",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "cheese-gherkin-toastie",
@@ -2782,27 +2854,27 @@
       "protein_g_estimate": 23,
       "why": "Melted cheese and sliced gherkins make a sharp crunchy toastie.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "Cheddar or mozzarella as named",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "2 slices bread",
+        "50g cheddar, grated",
+        "2 gherkins, thinly sliced",
+        "Butter",
+        "Mustard, optional"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Butter the outsides of the bread.",
+        "Fill with cheese and gherkins, adding mustard if you like.",
+        "Toast in a sandwich press or a frying pan over a medium heat for 3 minutes per side, until golden and melting."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Grated cheese melts faster than sliced.",
+        "A sandwich press means no pan to wash."
       ],
       "emoji": "🥪",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "mozzarella-tomato-pesto-panini",
@@ -2826,27 +2898,28 @@
       "protein_g_estimate": 24,
       "why": "A familiar panini with mozzarella, tomato and pesto.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "Cheddar or mozzarella as named",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 panini roll or ciabatta",
+        "½ ball mozzarella, sliced",
+        "1 tomato, sliced",
+        "1 tbsp green pesto",
+        "Handful of rocket or spinach, optional"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Split the roll and spread both sides with pesto.",
+        "Layer the mozzarella and tomato inside.",
+        "Toast in a sandwich press, or in a frying pan with something heavy on top, for 4 minutes per side.",
+        "Add the leaves once toasted."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Ready-to-bake ciabatta works perfectly.",
+        "Pat the mozzarella dry first so it doesn't go soggy."
       ],
-      "emoji": "🥪",
+      "emoji": "🥖",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-burger-salad",
@@ -2861,7 +2934,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 22,
       "difficulty": "Easy",
@@ -2869,27 +2943,29 @@
       "protein_g_estimate": 29,
       "why": "A proper halloumi burger with salad and pickles, with chips optional.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "80g halloumi",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 brioche bun",
+        "100g halloumi, cut into 2 thick slices",
+        "Lettuce, tomato and red onion",
+        "Gherkins",
+        "1 tbsp burger sauce or ketchup and mayo",
+        "Chips or wedges, optional"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "If you're having chips, start them in the oven or air fryer now.",
+        "Fry the halloumi for 3 minutes per side until deep golden.",
+        "Toast the bun cut-side down in the same pan for 1 minute.",
+        "Build it: sauce, lettuce, halloumi, tomato, onion and gherkins. Serve with chips and salad."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Frozen chips mean the full fakeaway with no effort.",
+        "A drizzle of sweet chilli on the halloumi works too."
       ],
-      "emoji": "🥪",
+      "emoji": "🍔",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "falafel-burger-pickles",
@@ -2904,7 +2980,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 20,
       "difficulty": "Easy",
@@ -2912,27 +2989,29 @@
       "protein_g_estimate": 22,
       "why": "A falafel burger with gherkins and pickled onions makes an easy fakeaway.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "4 falafel",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 brioche or burger bun",
+        "3 falafel, flattened into a patty (or 1 falafel burger)",
+        "Gherkins",
+        "Pickled onions, sliced",
+        "Lettuce",
+        "1 tbsp hummus or burger sauce"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "Squash the falafel together into a patty, or use a ready-made falafel burger.",
+        "Fry in a little oil for 3 minutes per side until crisp.",
+        "Toast the bun.",
+        "Spread the sauce, add lettuce, the patty and a heap of gherkins and pickled onions."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Frozen falafel burgers cook straight from frozen.",
+        "Serve with crisps for a full fakeaway."
       ],
-      "emoji": "🥪",
+      "emoji": "🍔",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "mediterranean-vegetable-mozzarella-panini",
@@ -2955,27 +3034,29 @@
       "protein_g_estimate": 24,
       "why": "Peppers, tomato, mozzarella and pesto make a warm Mediterranean sandwich.",
       "ingredients": [
-        "1 wrap, pitta, bun or panini roll as named",
-        "Cheddar or mozzarella as named",
-        "Lettuce, tomato or cucumber",
-        "Pickles or sauce named in the recipe"
+        "1 ciabatta or panini roll",
+        "3–4 slices roasted red pepper from a jar",
+        "½ ball mozzarella, sliced",
+        "1 tomato, sliced",
+        "1 tbsp green or red pesto",
+        "Few slices of courgette, optional"
       ],
       "method": [
-        "Cook or heat the main filling.",
-        "Warm or toast the bread.",
-        "Add the vegetables, pickles and sauce.",
-        "Fold or close and serve."
+        "If using courgette, fry the slices in a little oil for 2 minutes per side.",
+        "Spread the roll with pesto.",
+        "Layer the peppers, courgette, mozzarella and tomato.",
+        "Toast pressed down for 4 minutes per side until golden and melting."
       ],
       "shortcuts": [
-        "Use bagged salad.",
-        "Use pre-sliced cheese or halloumi."
+        "Jarred roasted peppers do all the hard work.",
+        "Chargrilled veg from the deli counter works too."
       ],
-      "emoji": "🥪",
+      "emoji": "🥖",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "pesto-pasta",
@@ -2991,7 +3072,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast"
+        "super_fast",
+        "freezer_staples"
       ],
       "time_minutes": 12,
       "difficulty": "Very easy",
@@ -2999,25 +3081,28 @@
       "protein_g_estimate": 18,
       "why": "A familiar pantry dinner with a bright pesto flavour.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables"
+        "75g dried pasta",
+        "1½ tbsp green pesto",
+        "Handful of frozen peas",
+        "Grated cheddar or parmesan-style hard cheese",
+        "Cherry tomatoes, optional"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the pasta in salted water for 10 minutes, adding the peas for the last 2 minutes.",
+        "Save a splash of the pasta water, then drain.",
+        "Stir the pesto through with a splash of pasta water so it coats everything.",
+        "Top with cheese and halved cherry tomatoes."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Cook the peas in the same pan as the pasta.",
+        "Red pesto is just as good."
       ],
-      "emoji": "🍝",
+      "emoji": "🌿",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "tomato-mozzarella-pasta",
@@ -3040,26 +3125,29 @@
       "protein_g_estimate": 24,
       "why": "Tomato sauce and mozzarella make a simple classic pasta dinner.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "40g mozzarella"
+        "75g dried pasta",
+        "½ jar tomato pasta sauce or ½ tin chopped tomatoes",
+        "1 garlic clove, optional",
+        "Pinch of dried oregano",
+        "40g mozzarella, torn",
+        "Basil, optional"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the pasta for 10 minutes.",
+        "Meanwhile warm the sauce with the oregano (and garlic fried for 1 minute first if using tinned tomatoes, then simmer for 8 minutes).",
+        "Drain the pasta and stir it into the sauce.",
+        "Tear over the mozzarella and let it start to melt before eating."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "A jar of sauce makes this a 12-minute dinner.",
+        "Mini mozzarella balls mean no tearing."
       ],
       "emoji": "🍝",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "quorn-pieces-in-homemade-tomato-sauce",
@@ -3075,7 +3163,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 35,
       "difficulty": "Worth the effort",
@@ -3083,26 +3172,33 @@
       "protein_g_estimate": 38,
       "why": "Homemade tomato sauce and Quorn pieces reward a little extra effort.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "120g vegetarian Quorn pieces"
+        "75g dried pasta",
+        "120g frozen Quorn pieces",
+        "1 tbsp olive oil",
+        "½ onion, finely chopped",
+        "1 garlic clove, crushed",
+        "1 tin chopped tomatoes",
+        "1 tsp dried oregano or Italian herbs",
+        "½ tsp sugar",
+        "Grated cheese, to serve"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Fry the onion in olive oil for 6 minutes until soft.",
+        "Add the Quorn and cook for 5 minutes, then the garlic for 1 minute.",
+        "Pour in the tomatoes with the herbs, sugar and a pinch of salt. Simmer for 15 minutes.",
+        "Meanwhile boil the pasta for 10 minutes, then drain.",
+        "Stir the pasta into the sauce and top with cheese."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Make a double batch of sauce and freeze half.",
+        "Blend the sauce smooth if you prefer it without chunks."
       ],
       "emoji": "🍝",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-tomato-pasta",
@@ -3125,26 +3221,28 @@
       "protein_g_estimate": 29,
       "why": "Crispy halloumi adds salty bite to tomato pasta.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "70g halloumi"
+        "75g dried pasta",
+        "70g halloumi, cubed",
+        "½ jar tomato pasta sauce",
+        "Handful of cherry tomatoes",
+        "Pinch of chilli flakes, optional"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the pasta for 10 minutes.",
+        "Fry the halloumi cubes for 4 minutes until golden, then set aside.",
+        "Add the cherry tomatoes to the pan for 2 minutes, then pour in the sauce and heat through.",
+        "Stir in the drained pasta and top with the crispy halloumi."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Add the halloumi at the end so it stays crispy.",
+        "Jarred sauce is fine."
       ],
       "emoji": "🍝",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-pesto-pasta",
@@ -3159,7 +3257,8 @@
         "fuel"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 20,
       "difficulty": "Easy",
@@ -3167,26 +3266,28 @@
       "protein_g_estimate": 30,
       "why": "Pesto pasta with golden halloumi is rich, familiar and filling.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "70g halloumi"
+        "75g dried pasta",
+        "70g halloumi, cubed",
+        "1½ tbsp green pesto",
+        "Handful of spinach or frozen peas",
+        "Squeeze of lemon"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the pasta for 10 minutes, adding the peas for the last 2 minutes.",
+        "Fry the halloumi until golden all over.",
+        "Drain the pasta (keep a splash of water) and stir in the pesto, spinach and lemon.",
+        "Top with the halloumi."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Spinach wilts in the hot pasta, so there's nothing extra to cook.",
+        "Use one pan for the halloumi, then mix everything in it."
       ],
-      "emoji": "🍝",
+      "emoji": "🌿",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "roasted-pepper-pasta",
@@ -3210,25 +3311,33 @@
       "protein_g_estimate": 18,
       "why": "A homemade roasted pepper and tomato sauce makes an established pasta dish feel special.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables"
+        "75g dried pasta",
+        "2 red peppers, chunked",
+        "1 small red onion, quartered",
+        "3 garlic cloves, unpeeled",
+        "1 tbsp olive oil",
+        "½ tin chopped tomatoes",
+        "1 tsp smoked paprika",
+        "Handful of basil",
+        "Grated cheese or mozzarella, to serve"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Heat the oven to 200°C.",
+        "Toss the peppers, onion and garlic in oil and roast for 25 minutes until soft and charred.",
+        "Squeeze the garlic from its skins and blend with the roast veg, tomatoes, paprika and a pinch of salt.",
+        "Meanwhile boil the pasta for 10 minutes.",
+        "Stir the pasta through the sauce and top with basil and cheese."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Jarred roasted peppers skip the roasting completely.",
+        "The sauce freezes brilliantly."
       ],
-      "emoji": "🍝",
+      "emoji": "🫑",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "mediterranean-vegetable-pasta",
@@ -3242,7 +3351,8 @@
         "feelgood"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 25,
       "difficulty": "Easy",
@@ -3250,25 +3360,32 @@
       "protein_g_estimate": 18,
       "why": "Peppers, courgette, tomato and herbs make a colourful pasta dinner.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables"
+        "75g dried pasta",
+        "½ courgette, chopped",
+        "½ pepper, chopped",
+        "½ red onion, chopped",
+        "Handful of cherry tomatoes",
+        "1 garlic clove",
+        "½ jar tomato pasta sauce or ½ tin tomatoes",
+        "1 tsp dried Italian herbs",
+        "Grated cheese"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the pasta for 10 minutes.",
+        "Fry the courgette, pepper and onion in oil for 8 minutes until soft and golden.",
+        "Add the garlic and cherry tomatoes for 2 minutes, then the sauce and herbs.",
+        "Stir in the drained pasta and top with cheese."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Frozen Mediterranean veg mix saves all the chopping.",
+        "Air fry the veg instead if you prefer."
       ],
-      "emoji": "🍝",
+      "emoji": "🫑",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "greek-pasta-salad",
@@ -3291,25 +3408,31 @@
       "protein_g_estimate": 22,
       "why": "Pasta, cucumber, tomato, olives, pickles and cheese make a fresh cold meal.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables"
+        "75g dried pasta",
+        "¼ cucumber, chopped",
+        "Cherry tomatoes, halved",
+        "Few olives",
+        "Pickled onions or ¼ red onion",
+        "40g feta or cheddar, cubed",
+        "1 tbsp olive oil",
+        "Squeeze of lemon",
+        "Pinch of dried oregano"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the pasta for 10 minutes, then rinse under cold water to cool.",
+        "Mix the oil, lemon, oregano and a pinch of salt in a bowl.",
+        "Add the pasta, cucumber, tomatoes, olives, onions and cheese and toss together."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Make it in the morning and it's ready for dinner.",
+        "Use any pickles you have open."
       ],
-      "emoji": "🍝",
+      "emoji": "🥗",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-pasta-salad",
@@ -3332,26 +3455,30 @@
       "protein_g_estimate": 28,
       "why": "Crispy halloumi turns a crunchy pasta salad into a substantial dinner.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "70g halloumi"
+        "75g dried pasta",
+        "70g halloumi, cubed",
+        "½ pepper, chopped",
+        "Cucumber and cherry tomatoes",
+        "Handful of sweetcorn",
+        "2 tbsp sweet chilli sauce",
+        "Squeeze of lime"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the pasta for 10 minutes, then rinse in cold water.",
+        "Fry the halloumi until golden.",
+        "Mix the sweet chilli with lime to make a dressing.",
+        "Toss the pasta, veg and dressing together and top with warm halloumi."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Pack it up for lunch tomorrow too.",
+        "Pre-chopped salad veg works."
       ],
-      "emoji": "🍝",
+      "emoji": "🥗",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "pesto-pasta-salad",
@@ -3367,8 +3494,7 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "super_fast",
-        "under_500"
+        "super_fast"
       ],
       "time_minutes": 15,
       "difficulty": "Very easy",
@@ -3376,25 +3502,28 @@
       "protein_g_estimate": 18,
       "why": "Pesto pasta salad is quick, familiar and works warm or cold.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables"
+        "75g dried pasta",
+        "1½ tbsp pesto",
+        "Cherry tomatoes, halved",
+        "Handful of sweetcorn",
+        "Few mozzarella pearls, optional",
+        "Rocket or spinach, optional"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the pasta for 10 minutes. Rinse it in cold water for a salad, or leave it warm.",
+        "Stir through the pesto with a little olive oil to loosen.",
+        "Add tomatoes, sweetcorn, mozzarella and leaves."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Works warm or cold.",
+        "Pasta cooked yesterday is perfect for this."
       ],
-      "emoji": "🍝",
+      "emoji": "🌿",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "macaroni-cheese",
@@ -3419,25 +3548,29 @@
       "ingredients": [
         "75g macaroni",
         "25g butter",
-        "25g flour",
+        "25g plain flour",
         "250ml milk",
-        "60g cheddar"
+        "60g mature cheddar, grated",
+        "½ tsp mustard, optional",
+        "Black pepper"
       ],
       "method": [
-        "Cook the macaroni.",
-        "Make a cheese sauce with butter, flour, milk and cheddar.",
-        "Combine and serve or bake until golden."
+        "Boil the macaroni for 8 minutes, then drain.",
+        "In the same pan melt the butter, stir in the flour and cook for 1 minute.",
+        "Whisk in the milk a little at a time and cook, stirring, for 3–4 minutes until thick.",
+        "Off the heat, stir in most of the cheese, the mustard and pepper.",
+        "Stir the macaroni back in. Top with the rest of the cheese and grill for 3 minutes if you want it golden."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Shop-bought cheese sauce works on a low night.",
+        "Add frozen peas or sweetcorn for some colour."
       ],
-      "emoji": "🍝",
+      "emoji": "🧀",
       "legend": true,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-macaroni-cheese",
@@ -3460,27 +3593,34 @@
       "protein_g_estimate": 32,
       "why": "Making the cheese sauce from scratch suits a night when baking and cooking sound enjoyable.",
       "ingredients": [
-        "75g macaroni",
-        "25g butter",
-        "25g flour",
-        "250ml milk",
-        "60g cheddar"
+        "150g macaroni (makes 2 portions)",
+        "40g butter",
+        "40g plain flour",
+        "500ml milk",
+        "120g mature cheddar, grated",
+        "30g mozzarella",
+        "1 tsp mustard",
+        "2 tbsp breadcrumbs",
+        "1 tomato, sliced, optional"
       ],
       "method": [
-        "Cook the macaroni.",
-        "Make a cheese sauce with butter, flour, milk and cheddar.",
-        "Combine and serve or bake until golden."
+        "Heat the oven to 200°C and boil the macaroni for 7 minutes, then drain.",
+        "Melt the butter, stir in the flour and cook for 1 minute.",
+        "Gradually whisk in the milk and simmer, stirring, for 5 minutes until thick and smooth.",
+        "Take off the heat and stir in the mustard, 90g of cheddar and the mozzarella.",
+        "Combine with the macaroni and tip into a baking dish.",
+        "Top with tomato slices, breadcrumbs and the remaining cheddar. Bake for 20 minutes until bubbling and golden."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Makes 2 portions. The second one is tomorrow's treat.",
+        "Crushed crisps make an excellent topping instead of breadcrumbs."
       ],
-      "emoji": "🍝",
+      "emoji": "🧀",
       "legend": true,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "tomato-pasta-bake",
@@ -3504,26 +3644,30 @@
       "protein_g_estimate": 27,
       "why": "Tomato pasta topped with mozzarella is a recognised family-style bake.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "40g mozzarella"
+        "150g pasta (2 portions)",
+        "1 jar tomato pasta sauce or homemade tomato sauce",
+        "1 pepper, chopped",
+        "Handful of sweetcorn",
+        "1 ball mozzarella",
+        "40g cheddar, grated"
       ],
       "method": [
-        "Cook the pasta until just tender.",
-        "Combine with tomato or pesto sauce and fillings.",
-        "Top with mozzarella and bake until bubbling."
+        "Heat the oven to 200°C. Boil the pasta for 8 minutes, then drain.",
+        "Fry the pepper for 4 minutes, then add the sauce and sweetcorn.",
+        "Mix in the pasta and tip into a baking dish.",
+        "Tear over the mozzarella and scatter with cheddar.",
+        "Bake for 20 minutes until bubbling and golden."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Assemble earlier and bake when you're hungry.",
+        "Leftovers reheat in the microwave in 2 minutes."
       ],
-      "emoji": "🍝",
+      "emoji": "🧀",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "pesto-pasta-bake",
@@ -3539,7 +3683,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 40,
       "difficulty": "Worth the effort",
@@ -3547,26 +3692,30 @@
       "protein_g_estimate": 28,
       "why": "Pesto, vegetables and mozzarella make a bubbling pasta bake without a creamy sauce.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "40g mozzarella"
+        "150g pasta (2 portions)",
+        "3 tbsp green pesto",
+        "3 tbsp crème fraîche or a splash of milk",
+        "Handful of frozen peas",
+        "Cherry tomatoes",
+        "1 ball mozzarella",
+        "30g cheddar"
       ],
       "method": [
-        "Cook the pasta until just tender.",
-        "Combine with tomato or pesto sauce and fillings.",
-        "Top with mozzarella and bake until bubbling."
+        "Heat the oven to 200°C. Boil the pasta for 8 minutes, adding the peas for the last 2 minutes. Drain.",
+        "Stir in the pesto, crème fraîche and halved cherry tomatoes.",
+        "Tip into a baking dish and top with torn mozzarella and cheddar.",
+        "Bake for 20 minutes until golden."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Leave out the crème fraîche if you'd rather not have it creamy.",
+        "Makes two portions."
       ],
-      "emoji": "🍝",
+      "emoji": "🌿",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "quorn-tomato-pasta-bake",
@@ -3581,7 +3730,8 @@
       ],
       "preferences": [
         "minimal_washing_up",
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 45,
       "difficulty": "Worth the effort",
@@ -3589,27 +3739,32 @@
       "protein_g_estimate": 39,
       "why": "Quorn pieces in tomato sauce with pasta and mozzarella make a filling baked dinner.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "120g vegetarian Quorn pieces",
-        "40g mozzarella"
+        "150g pasta (2 portions)",
+        "150g frozen Quorn pieces",
+        "1 onion, chopped",
+        "1 pepper, chopped",
+        "1 tin chopped tomatoes or 1 jar pasta sauce",
+        "1 tsp dried Italian herbs",
+        "1 ball mozzarella",
+        "40g cheddar"
       ],
       "method": [
-        "Cook the pasta until just tender.",
-        "Combine with tomato or pesto sauce and fillings.",
-        "Top with mozzarella and bake until bubbling."
+        "Heat the oven to 200°C. Boil the pasta for 8 minutes, then drain.",
+        "Fry the onion and pepper for 5 minutes, then the Quorn for 5 more.",
+        "Add the tomatoes and herbs and simmer for 10 minutes.",
+        "Mix with the pasta, tip into a dish and top with mozzarella and cheddar.",
+        "Bake for 20 minutes until bubbling."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Freeze the second portion before baking.",
+        "Jarred sauce cuts 10 minutes off."
       ],
       "emoji": "🍝",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "one-pot-tomato-orzo",
@@ -3624,7 +3779,8 @@
         "comfort"
       ],
       "preferences": [
-        "minimal_washing_up"
+        "minimal_washing_up",
+        "freezer_staples"
       ],
       "time_minutes": 25,
       "difficulty": "Easy",
@@ -3632,25 +3788,30 @@
       "protein_g_estimate": 19,
       "why": "Tomato orzo is cosy, simple and uses one pan.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables"
+        "75g orzo",
+        "½ onion, finely chopped",
+        "1 garlic clove",
+        "½ tin chopped tomatoes",
+        "250ml vegetable stock",
+        "Handful of spinach or peas",
+        "Grated cheese or mozzarella"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Fry the onion in a little oil for 5 minutes, then the garlic for 1 minute.",
+        "Add the orzo, tomatoes and stock. Simmer for 12 minutes, stirring often, until the orzo is tender.",
+        "Stir through the spinach or peas for the last 2 minutes.",
+        "Top with cheese and let it melt."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Literally one pan.",
+        "Add a splash more stock if it gets too thick."
       ],
-      "emoji": "🍝",
+      "emoji": "🍅",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-tomato-orzo",
@@ -3673,26 +3834,31 @@
       "protein_g_estimate": 28,
       "why": "Golden halloumi adds texture to a rich tomato orzo.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables",
-        "70g halloumi"
+        "75g orzo",
+        "70g halloumi, cubed",
+        "½ onion, chopped",
+        "1 garlic clove",
+        "½ tin chopped tomatoes",
+        "250ml vegetable stock",
+        "Handful of cherry tomatoes",
+        "Pinch of dried oregano"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Fry the halloumi until golden, then set aside.",
+        "In the same pan fry the onion for 5 minutes and the garlic for 1 minute.",
+        "Add the orzo, tinned tomatoes, cherry tomatoes, oregano and stock. Simmer for 12 minutes, stirring.",
+        "Top with the crispy halloumi."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Cook everything in one pan.",
+        "Add frozen peas for extra green."
       ],
-      "emoji": "🍝",
+      "emoji": "🍅",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "greek-orzo-salad",
@@ -3715,25 +3881,31 @@
       "protein_g_estimate": 21,
       "why": "Orzo, cucumber, tomato, olives, pickled onions and cheese make a fresh meal.",
       "ingredients": [
-        "75g dried pasta or orzo",
-        "Sauce ingredients named in the recipe",
-        "Peppers, tomato, sweetcorn or preferred vegetables"
+        "75g orzo",
+        "¼ cucumber, chopped",
+        "Cherry tomatoes, halved",
+        "Few olives",
+        "3–4 pickled onions, sliced",
+        "40g feta or cheddar",
+        "1 tbsp olive oil",
+        "Squeeze of lemon",
+        "Pinch of oregano"
       ],
       "method": [
-        "Cook the pasta until tender.",
-        "Prepare or warm the named sauce and any vegetables.",
-        "Combine and serve."
+        "Boil the orzo for 9 minutes, then rinse in cold water.",
+        "Whisk the oil, lemon, oregano and salt in a bowl.",
+        "Toss in the orzo, cucumber, tomatoes, olives, pickled onions and cheese."
       ],
       "shortcuts": [
-        "Use ready-made tomato sauce or pesto on lower-energy nights.",
-        "Use frozen chopped vegetables."
+        "Keeps well for lunch tomorrow.",
+        "Use any small pasta shape if you're out of orzo."
       ],
-      "emoji": "🍝",
+      "emoji": "🥗",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-margherita-pizza",
@@ -3755,27 +3927,36 @@
       "protein_g_estimate": 30,
       "why": "Homemade dough, tomato sauce and mozzarella make a proper baking project.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "250g strong white bread flour",
+        "1 tsp (7g) fast-action yeast",
+        "1 tsp salt",
+        "160ml warm water",
+        "1 tbsp olive oil",
+        "½ tin chopped tomatoes or passata",
+        "1 garlic clove, crushed",
+        "½ tsp dried oregano",
+        "1 ball mozzarella",
+        "Fresh basil"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Mix the flour, yeast and salt, then add the warm water and oil to make a soft dough.",
+        "Knead for 8 minutes until smooth and stretchy.",
+        "Cover and leave somewhere warm for 45 minutes until doubled in size.",
+        "While the dough rises, simmer the tomatoes, garlic, oregano and a pinch of salt for 10 minutes until thick.",
+        "Heat the oven as hot as it goes (240°C) with a tray inside.",
+        "Stretch the dough into a thin round, spread with sauce and tear over the mozzarella.",
+        "Slide onto the hot tray and bake for 10 minutes until blistered. Top with basil."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Shop-bought dough balls skip the rising.",
+        "Makes 2 pizzas. Freeze the second dough ball."
       ],
       "emoji": "🍕",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-halloumi-pizza",
@@ -3797,27 +3978,38 @@
       "protein_g_estimate": 34,
       "why": "Homemade pizza topped with halloumi is fun, familiar and very Niamh.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "250g strong white bread flour",
+        "1 tsp (7g) fast-action yeast",
+        "1 tsp salt",
+        "160ml warm water",
+        "1 tbsp olive oil",
+        "½ tin chopped tomatoes or passata",
+        "1 garlic clove, crushed",
+        "½ tsp dried oregano",
+        "½ ball mozzarella",
+        "80g halloumi, sliced thin",
+        "½ red onion, sliced",
+        "Sweet chilli or hot honey, to finish"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Mix the flour, yeast and salt, then add the warm water and oil to make a soft dough.",
+        "Knead for 8 minutes until smooth and stretchy.",
+        "Cover and leave somewhere warm for 45 minutes until doubled in size.",
+        "While the dough rises, simmer the tomatoes, garlic, oregano and a pinch of salt for 10 minutes until thick.",
+        "Heat the oven to 240°C with a tray inside.",
+        "Stretch the dough, spread with sauce, then add the mozzarella, onion and halloumi slices.",
+        "Bake for 10–12 minutes until golden. Drizzle with sweet chilli."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Ready-made pizza base works on a lower-energy night.",
+        "Halloumi goes extra golden near the edge of the pizza."
       ],
       "emoji": "🍕",
       "legend": true,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-veggie-feast-pizza",
@@ -3839,27 +4031,39 @@
       "protein_g_estimate": 29,
       "why": "A from-scratch pizza with peppers, sweetcorn, red onion and mozzarella.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "250g strong white bread flour",
+        "1 tsp (7g) fast-action yeast",
+        "1 tsp salt",
+        "160ml warm water",
+        "1 tbsp olive oil",
+        "½ tin chopped tomatoes or passata",
+        "1 garlic clove, crushed",
+        "½ tsp dried oregano",
+        "1 ball mozzarella",
+        "½ pepper, sliced",
+        "2 tbsp sweetcorn",
+        "¼ red onion, sliced",
+        "Few mushrooms or olives, optional"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Mix the flour, yeast and salt, then add the warm water and oil to make a soft dough.",
+        "Knead for 8 minutes until smooth and stretchy.",
+        "Cover and leave somewhere warm for 45 minutes until doubled in size.",
+        "While the dough rises, simmer the tomatoes, garlic, oregano and a pinch of salt for 10 minutes until thick.",
+        "Heat the oven to 240°C with a tray inside.",
+        "Stretch the dough, spread the sauce and scatter over the mozzarella and all the veg.",
+        "Bake for 10–12 minutes until bubbling and crisp."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Frozen sliced peppers work fine.",
+        "Don't overload it, or the middle goes soggy."
       ],
       "emoji": "🍕",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "sweet-chilli-halloumi-pizza",
@@ -3882,27 +4086,30 @@
       "protein_g_estimate": 32,
       "why": "Halloumi and sweet chilli make a recognisable homemade pizza with a twist.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "1 ready-made pizza base or dough ball",
+        "3 tbsp tomato pizza sauce",
+        "½ ball mozzarella",
+        "80g halloumi, cubed",
+        "½ pepper, sliced",
+        "Spring onion",
+        "2 tbsp sweet chilli sauce"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Heat the oven to 220°C.",
+        "Fry the halloumi cubes for 3 minutes until just golden.",
+        "Spread the base with sauce and top with mozzarella, pepper and halloumi.",
+        "Bake for 12 minutes, then drizzle with sweet chilli and scatter over the spring onion."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Shop-bought base keeps it under an hour.",
+        "Swirl a little sweet chilli into the tomato sauce too."
       ],
       "emoji": "🍕",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "greek-style-pizza",
@@ -3924,27 +4131,41 @@
       "protein_g_estimate": 31,
       "why": "Tomato, mozzarella, peppers, olives, red onion and halloumi create a Greek-style pizza.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "250g strong white bread flour",
+        "1 tsp (7g) fast-action yeast",
+        "1 tsp salt",
+        "160ml warm water",
+        "1 tbsp olive oil",
+        "½ tin chopped tomatoes or passata",
+        "1 garlic clove, crushed",
+        "½ tsp dried oregano",
+        "½ ball mozzarella",
+        "60g halloumi or feta",
+        "½ pepper, sliced",
+        "¼ red onion, sliced",
+        "Few black olives",
+        "Pinch of oregano",
+        "Tzatziki to drizzle, optional"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Mix the flour, yeast and salt, then add the warm water and oil to make a soft dough.",
+        "Knead for 8 minutes until smooth and stretchy.",
+        "Cover and leave somewhere warm for 45 minutes until doubled in size.",
+        "While the dough rises, simmer the tomatoes, garlic, oregano and a pinch of salt for 10 minutes until thick.",
+        "Heat the oven to 240°C with a tray inside.",
+        "Stretch the dough, spread with sauce and add the mozzarella, pepper, onion, olives and crumbled cheese.",
+        "Bake for 10–12 minutes. Sprinkle with oregano and drizzle with tzatziki."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Ready-made dough means 20 minutes, start to finish.",
+        "Freeze the second dough ball."
       ],
       "emoji": "🍕",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "pesto-tomato-mozzarella-pizza",
@@ -3967,27 +4188,29 @@
       "protein_g_estimate": 28,
       "why": "Pesto, tomato and mozzarella are a familiar homemade pizza combination.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "1 ready-made pizza base",
+        "2 tbsp tomato pizza sauce",
+        "1 tbsp green pesto",
+        "1 ball mozzarella",
+        "Cherry tomatoes, halved",
+        "Rocket, optional"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Heat the oven to 220°C.",
+        "Spread the base with tomato sauce, then add little spoonfuls of pesto.",
+        "Tear over the mozzarella and add the cherry tomatoes cut-side up.",
+        "Bake for 12 minutes. Top with rocket and a final drizzle of pesto."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Pesto loosened with a bit of olive oil drizzles nicely.",
+        "Use homemade dough if you're feeling it."
       ],
       "emoji": "🍕",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-calzone-with-mozzarella-vegetables",
@@ -4009,27 +4232,40 @@
       "protein_g_estimate": 30,
       "why": "Folding homemade dough around tomato, mozzarella and vegetables makes a satisfying bake.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "250g strong white bread flour",
+        "1 tsp (7g) fast-action yeast",
+        "1 tsp salt",
+        "160ml warm water",
+        "1 tbsp olive oil",
+        "½ tin chopped tomatoes or passata",
+        "1 garlic clove, crushed",
+        "½ tsp dried oregano",
+        "1 ball mozzarella",
+        "½ pepper, chopped",
+        "Handful of spinach",
+        "2 tbsp sweetcorn",
+        "Beaten egg or milk, to brush"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Mix the flour, yeast and salt, then add the warm water and oil to make a soft dough.",
+        "Knead for 8 minutes until smooth and stretchy.",
+        "Cover and leave somewhere warm for 45 minutes until doubled in size.",
+        "While the dough rises, simmer the tomatoes, garlic, oregano and a pinch of salt for 10 minutes until thick.",
+        "Heat the oven to 220°C.",
+        "Roll the dough into a large circle. Spread sauce over one half, leaving a border, and pile on the mozzarella and veg.",
+        "Fold over, crimp the edges firmly, brush with egg and cut a small steam hole.",
+        "Bake for 18–20 minutes until deep golden. Rest for 3 minutes before cutting."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Ready-made dough makes this a 30-minute job.",
+        "Serve with extra warm sauce for dipping."
       ],
-      "emoji": "🍕",
+      "emoji": "🥟",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-pepper-calzone",
@@ -4051,27 +4287,39 @@
       "protein_g_estimate": 33,
       "why": "A homemade calzone filled with tomato sauce, peppers, mozzarella and halloumi.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "250g strong white bread flour",
+        "1 tsp (7g) fast-action yeast",
+        "1 tsp salt",
+        "160ml warm water",
+        "1 tbsp olive oil",
+        "½ tin chopped tomatoes or passata",
+        "1 garlic clove, crushed",
+        "½ tsp dried oregano",
+        "½ ball mozzarella",
+        "80g halloumi, cubed",
+        "1 pepper, sliced",
+        "¼ red onion, sliced",
+        "Beaten egg or milk"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Mix the flour, yeast and salt, then add the warm water and oil to make a soft dough.",
+        "Knead for 8 minutes until smooth and stretchy.",
+        "Cover and leave somewhere warm for 45 minutes until doubled in size.",
+        "While the dough rises, simmer the tomatoes, garlic, oregano and a pinch of salt for 10 minutes until thick.",
+        "Fry the pepper and onion for 5 minutes until soft. Heat the oven to 220°C.",
+        "Roll the dough into a big circle. Fill one half with sauce, mozzarella, halloumi and the peppers.",
+        "Fold, crimp the edges and brush with egg. Bake for 18–20 minutes until golden."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Shop-bought dough is completely fine.",
+        "Leave a 2cm border so it seals properly."
       ],
-      "emoji": "🍕",
+      "emoji": "🥟",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-garlic-dough-balls",
@@ -4114,7 +4362,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-garlic-flatbread",
@@ -4140,24 +4388,29 @@
         "200g plain flour",
         "1 tsp baking powder",
         "150g Greek yoghurt",
-        "Garlic butter"
+        "Pinch of salt",
+        "30g butter",
+        "2 garlic cloves, crushed",
+        "Chopped parsley, optional",
+        "Hummus or salad to serve"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Mix the flour, baking powder, salt and yoghurt into a soft dough. Knead for 1 minute.",
+        "Divide into 3 and roll each into a thin oval.",
+        "Melt the butter with the garlic and parsley.",
+        "Cook each flatbread in a dry hot pan for 2 minutes per side until puffed and charred.",
+        "Brush generously with garlic butter while hot."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "No yeast and no waiting, so it's much quicker than it sounds.",
+        "Brilliant with hummus, falafel or any curry."
       ],
-      "emoji": "🍕",
+      "emoji": "🫓",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-flatbread-pizza",
@@ -4180,27 +4433,29 @@
       "protein_g_estimate": 28,
       "why": "A shop-bought flatbread becomes a quick pizza with tomato, mozzarella and halloumi.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "1 large flatbread or naan",
+        "2 tbsp tomato pizza sauce",
+        "40g mozzarella",
+        "60g halloumi, sliced",
+        "Few slices of red onion and pepper",
+        "Sweet chilli, optional"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Heat the oven to 220°C.",
+        "Spread the flatbread with sauce and top with mozzarella, halloumi, onion and pepper.",
+        "Bake directly on the oven shelf for 10 minutes until golden.",
+        "Drizzle with sweet chilli if you like."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Air fry at 190°C for 6 minutes.",
+        "Garlic naan makes an extra-good base."
       ],
       "emoji": "🍕",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "margherita-flatbread-pizza",
@@ -4225,27 +4480,27 @@
       "protein_g_estimate": 22,
       "why": "A fast margherita on flatbread gives pizza satisfaction with little effort.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "1 large flatbread or naan",
+        "2 tbsp tomato purée or pizza sauce",
+        "60g mozzarella",
+        "Pinch of oregano",
+        "Basil, optional"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Heat the oven to 220°C or the air fryer to 190°C.",
+        "Spread the sauce, tear over the mozzarella and sprinkle with oregano.",
+        "Bake for 8 minutes (6 in the air fryer) until bubbling."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Grated mozzarella from a bag is fine.",
+        "Bake on a sheet of foil for zero washing up."
       ],
       "emoji": "🍕",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "pitta-pizza",
@@ -4271,27 +4526,26 @@
       "protein_g_estimate": 21,
       "why": "Pitta bread, tomato sauce and mozzarella make a genuinely easy mini pizza.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "2 pittas",
+        "2 tbsp tomato purée or pizza sauce",
+        "50g grated mozzarella or cheddar",
+        "Toppings: sweetcorn, peppers, olives"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Heat the grill or air fryer.",
+        "Spread the pittas with sauce and add cheese and toppings.",
+        "Grill for 5 minutes, or air fry at 190°C for 5 minutes, until melted."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Ketchup works as a sauce in an emergency.",
+        "Wholemeal pittas work just as well."
       ],
       "emoji": "🍕",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "bagel-pizza",
@@ -4315,27 +4569,27 @@
       "protein_g_estimate": 20,
       "why": "A toasted bagel topped like pizza is ideal when cooking capacity is low.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "1 bagel, halved",
+        "1 tbsp tomato purée or pizza sauce",
+        "40g grated mozzarella or cheddar",
+        "Pinch of oregano",
+        "Sweetcorn or pepper, optional"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Lightly toast the bagel halves.",
+        "Spread with sauce, top with cheese and toppings.",
+        "Grill for 3–4 minutes until bubbling."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "The toaster then the grill means two minutes of effort.",
+        "Pre-grated cheese, always."
       ],
-      "emoji": "🍕",
+      "emoji": "🥯",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-tomato-pizza-sauce",
@@ -4379,7 +4633,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "make-your-own-pizza-night",
@@ -4401,27 +4655,35 @@
       "protein_g_estimate": 32,
       "why": "Homemade dough, homemade sauce and chosen toppings make dinner an enjoyable event.",
       "ingredients": [
-        "Pizza dough, flatbread, pitta or bagel as named",
-        "Homemade or jarred tomato sauce",
-        "Mozzarella",
-        "Vegetarian toppings named in the recipe"
+        "500g strong white bread flour",
+        "1 sachet (7g) fast-action yeast",
+        "2 tsp salt",
+        "320ml warm water",
+        "2 tbsp olive oil",
+        "1 tin chopped tomatoes",
+        "2 garlic cloves",
+        "1 tsp oregano",
+        "2 balls mozzarella",
+        "Toppings bar: halloumi, peppers, sweetcorn, red onion, olives, pesto, sweet chilli"
       ],
       "method": [
-        "Prepare the dough or chosen base.",
-        "Make or spread the tomato sauce.",
-        "Add mozzarella and toppings.",
-        "Bake until crisp and bubbling."
+        "Mix the flour, yeast and salt, add the water and oil and knead for 8–10 minutes until smooth.",
+        "Cover and leave to rise for 1 hour.",
+        "Simmer the tomatoes, garlic, oregano and salt for 15 minutes until thick.",
+        "Chop all the toppings into little bowls. This is the fun bit.",
+        "Heat the oven to 240°C with trays inside. Divide the dough into 4 and stretch thinly.",
+        "Everyone builds their own. Bake each for 10 minutes until blistered."
       ],
       "shortcuts": [
-        "Use ready-made dough on lower-energy nights.",
-        "Freeze spare dough or sauce for another dinner."
+        "Ready-made dough balls let you skip straight to the fun bit.",
+        "Leftover dough freezes for up to 3 months."
       ],
       "emoji": "🍕",
       "legend": true,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-halloumi-gyros",
@@ -4435,7 +4697,8 @@
         "effort"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 40,
       "difficulty": "Worth the effort",
@@ -4443,29 +4706,34 @@
       "protein_g_estimate": 34,
       "why": "Seasoned halloumi, warm pitta, fresh salad and wedges make a proper homemade gyros night.",
       "ingredients": [
-        "Halloumi, falafel or Quorn pieces as named",
-        "Pitta, wraps, rice or wedges as named",
-        "Tomato, cucumber and peppers",
-        "Hummus, yoghurt, salsa or homemade sauce",
-        "Pickled onions, gherkins or red cabbage"
+        "225g halloumi, cut into fingers",
+        "1 tsp smoked paprika",
+        "1 tsp dried oregano",
+        "1 tbsp olive oil",
+        "Juice of ½ lemon",
+        "2 pittas or flatbreads",
+        "Tomato, cucumber and red onion",
+        "Pickled red cabbage",
+        "150g Greek yoghurt + 1 grated garlic clove (quick tzatziki)",
+        "300g frozen wedges or chips"
       ],
       "method": [
-        "Prepare the chosen base and vegetables.",
-        "Cook the halloumi, falafel or Quorn pieces.",
-        "Make the sauce if included.",
-        "Assemble and serve."
+        "Put the wedges in the oven or air fryer according to the packet.",
+        "Toss the halloumi with paprika, oregano, oil and lemon. Leave for 10 minutes.",
+        "Make the tzatziki: mix the yoghurt with garlic, a little grated cucumber and salt.",
+        "Fry the halloumi for 2 minutes per side until charred.",
+        "Warm the pittas. Load with tzatziki, salad, cabbage, halloumi and a few wedges tucked in. Serve the rest of the wedges on the side."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Shop-bought tzatziki is completely acceptable.",
+        "Put the wedges inside the gyros like they do in Greece."
       ],
       "emoji": "🥙",
       "legend": true,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-souvlaki-bowl",
@@ -4487,29 +4755,34 @@
       "protein_g_estimate": 32,
       "why": "Charred halloumi, peppers, rice and fresh salad reward the extra effort.",
       "ingredients": [
-        "Halloumi, falafel or Quorn pieces as named",
-        "Pitta, wraps, rice or wedges as named",
-        "Tomato, cucumber and peppers",
-        "Hummus, yoghurt, salsa or homemade sauce",
-        "Pickled onions, gherkins or red cabbage"
+        "150g halloumi, cubed",
+        "1 pepper, chunked",
+        "½ red onion, chunked",
+        "1 tbsp olive oil",
+        "1 tsp oregano",
+        "Juice of ½ lemon",
+        "1 microwave rice pouch (250g)",
+        "Cucumber and tomato salad",
+        "Tzatziki",
+        "Warm pitta, optional"
       ],
       "method": [
-        "Prepare the chosen base and vegetables.",
-        "Cook the halloumi, falafel or Quorn pieces.",
-        "Make the sauce if included.",
-        "Assemble and serve."
+        "Toss the halloumi, pepper and onion with oil, oregano and lemon.",
+        "Thread onto skewers or spread on a tray.",
+        "Grill or air fry at 200°C for 12–15 minutes, turning once, until charred.",
+        "Warm the rice and make a quick salad.",
+        "Build the bowl: rice, salad, skewers, tzatziki and pitta on the side."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Skip the skewers and just roast everything on a tray.",
+        "Leftover halloumi is lovely cold the next day."
       ],
       "emoji": "🍢",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-mezze-feast",
@@ -4531,29 +4804,32 @@
       "protein_g_estimate": 31,
       "why": "Halloumi, hummus, pitta, salad and pickles create a generous mezze dinner.",
       "ingredients": [
-        "Halloumi, falafel or Quorn pieces as named",
-        "Pitta, wraps, rice or wedges as named",
-        "Tomato, cucumber and peppers",
-        "Hummus, yoghurt, salsa or homemade sauce",
-        "Pickled onions, gherkins or red cabbage"
+        "150g halloumi",
+        "Hummus",
+        "2 warm pittas",
+        "Falafel, optional",
+        "Cucumber, tomatoes and peppers, cut into sticks",
+        "Olives",
+        "Pickled onions, gherkins and red cabbage",
+        "Tzatziki",
+        "Drizzle of honey or sweet chilli"
       ],
       "method": [
-        "Prepare the chosen base and vegetables.",
-        "Cook the halloumi, falafel or Quorn pieces.",
-        "Make the sauce if included.",
-        "Assemble and serve."
+        "Warm the falafel and pittas in the oven for 10 minutes.",
+        "Fry the halloumi slices until golden and drizzle with honey.",
+        "Cut the veg into sticks and pour everything into little bowls.",
+        "Arrange it all on a big board and graze."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Buy everything ready-made and just assemble.",
+        "Little bowls make it feel like a restaurant."
       ],
-      "emoji": "🫓",
+      "emoji": "🫒",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "falafel-mezze-feast",
@@ -4567,7 +4843,8 @@
         "effort"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 40,
       "difficulty": "Worth the effort",
@@ -4575,29 +4852,32 @@
       "protein_g_estimate": 26,
       "why": "Falafel, hummus, warm pitta, salad and pickles make a recognisable sharing meal.",
       "ingredients": [
-        "Halloumi, falafel or Quorn pieces as named",
-        "Pitta, wraps, rice or wedges as named",
-        "Tomato, cucumber and peppers",
-        "Hummus, yoghurt, salsa or homemade sauce",
-        "Pickled onions, gherkins or red cabbage"
+        "8 falafel",
+        "Hummus",
+        "2 warm pittas",
+        "Tzatziki or garlic yoghurt",
+        "Cucumber, carrot and pepper sticks",
+        "Cherry tomatoes",
+        "Olives and pickles",
+        "Pickled red cabbage",
+        "Squeeze of lemon"
       ],
       "method": [
-        "Prepare the chosen base and vegetables.",
-        "Cook the halloumi, falafel or Quorn pieces.",
-        "Make the sauce if included.",
-        "Assemble and serve."
+        "Heat the falafel and pittas in the oven or air fryer for 10 minutes.",
+        "Spoon the dips into bowls and swirl a little olive oil on the hummus.",
+        "Cut the veg into sticks.",
+        "Arrange everything on a board and squeeze over some lemon."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Everything here can be shop-bought.",
+        "Leftovers make tomorrow's wrap."
       ],
       "emoji": "🧆",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "greek-halloumi-sharing-platter",
@@ -4611,7 +4891,8 @@
         "effort"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 40,
       "difficulty": "Worth the effort",
@@ -4619,29 +4900,32 @@
       "protein_g_estimate": 33,
       "why": "Halloumi, rice, pitta, salad, pickled onions and yoghurt make a colourful platter.",
       "ingredients": [
-        "Halloumi, falafel or Quorn pieces as named",
-        "Pitta, wraps, rice or wedges as named",
-        "Tomato, cucumber and peppers",
-        "Hummus, yoghurt, salsa or homemade sauce",
-        "Pickled onions, gherkins or red cabbage"
+        "225g halloumi",
+        "1 microwave rice pouch (250g)",
+        "2 pittas",
+        "Tzatziki",
+        "Cucumber, tomatoes and red onion",
+        "Olives",
+        "Pickled onions",
+        "Lemon wedges",
+        "Dried oregano"
       ],
       "method": [
-        "Prepare the chosen base and vegetables.",
-        "Cook the halloumi, falafel or Quorn pieces.",
-        "Make the sauce if included.",
-        "Assemble and serve."
+        "Microwave the rice and stir through a little lemon and oregano.",
+        "Fry the halloumi in thick slices for 2 minutes per side until golden.",
+        "Chop a rough Greek salad with cucumber, tomato and onion.",
+        "Warm the pittas and arrange everything on a big platter with tzatziki, olives and pickled onions."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Shop-bought tzatziki and pre-cut salad make this a 15-minute feast.",
+        "It's a lovely one to share."
       ],
-      "emoji": "🍽️",
+      "emoji": "🫒",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "vegetarian-fajita-night",
@@ -4655,7 +4939,8 @@
         "effort"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 35,
       "difficulty": "Worth the effort",
@@ -4663,29 +4948,34 @@
       "protein_g_estimate": 32,
       "why": "Quorn pieces, peppers, wraps, salsa and cheese make a proper fajita spread.",
       "ingredients": [
-        "Halloumi, falafel or Quorn pieces as named",
-        "Pitta, wraps, rice or wedges as named",
-        "Tomato, cucumber and peppers",
-        "Hummus, yoghurt, salsa or homemade sauce",
-        "Pickled onions, gherkins or red cabbage"
+        "4 tortilla wraps",
+        "200g frozen Quorn pieces",
+        "2 peppers, sliced",
+        "1 onion, sliced",
+        "1 fajita seasoning sachet (mild)",
+        "Salsa",
+        "Grated cheddar",
+        "Sour cream or Greek yoghurt",
+        "Shredded lettuce",
+        "Guacamole, optional"
       ],
       "method": [
-        "Prepare the chosen base and vegetables.",
-        "Cook the halloumi, falafel or Quorn pieces.",
-        "Make the sauce if included.",
-        "Assemble and serve."
+        "Fry the onion and peppers in a large pan for 6 minutes until charred at the edges.",
+        "Add the Quorn and cook for 6 minutes.",
+        "Add the seasoning with a splash of water and cook for 2 minutes.",
+        "Warm the wraps in the oven wrapped in foil, or one at a time in a dry pan.",
+        "Put all the bits in bowls on the table and build your own."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "A fajita kit gives you the wraps, salsa and seasoning in one box.",
+        "Serves 2, or 1 with lunch tomorrow."
       ],
-      "emoji": "🌯",
+      "emoji": "🌮",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-fajita-night",
@@ -4699,7 +4989,8 @@
         "effort"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 35,
       "difficulty": "Worth the effort",
@@ -4707,29 +4998,32 @@
       "protein_g_estimate": 31,
       "why": "Halloumi, peppers, onions and wraps create a lively fajita dinner.",
       "ingredients": [
-        "Halloumi, falafel or Quorn pieces as named",
-        "Pitta, wraps, rice or wedges as named",
-        "Tomato, cucumber and peppers",
-        "Hummus, yoghurt, salsa or homemade sauce",
-        "Pickled onions, gherkins or red cabbage"
+        "4 tortilla wraps",
+        "225g halloumi, cut into fingers",
+        "2 peppers, sliced",
+        "1 onion, sliced",
+        "2 tsp mild fajita seasoning",
+        "Salsa",
+        "Sour cream or yoghurt",
+        "Lettuce",
+        "Lime wedges"
       ],
       "method": [
-        "Prepare the chosen base and vegetables.",
-        "Cook the halloumi, falafel or Quorn pieces.",
-        "Make the sauce if included.",
-        "Assemble and serve."
+        "Toss the halloumi in half the seasoning.",
+        "Fry the peppers and onion with the rest of the seasoning for 8 minutes until soft and charred. Set aside.",
+        "Fry the halloumi for 2 minutes per side in the same pan.",
+        "Warm the wraps. Serve everything on the table to build your own, with lime to squeeze."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Frozen sliced peppers and onions save the chopping.",
+        "Halloumi doesn't need the cheese on top, but nobody will stop you."
       ],
-      "emoji": "🌯",
+      "emoji": "🌮",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "mild-quorn-tikka-masala-rice",
@@ -4744,7 +5038,8 @@
         "effort"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 40,
       "difficulty": "Worth the effort",
@@ -4752,28 +5047,36 @@
       "protein_g_estimate": 37,
       "why": "A mild tomato-based tikka sauce with Quorn pieces and rice is familiar and comforting.",
       "ingredients": [
-        "Vegetarian main ingredient named in the recipe",
-        "Onion, peppers or preferred vegetables",
-        "Tomatoes and mild or medium spices",
-        "Rice to serve"
+        "150g frozen Quorn pieces",
+        "1 tbsp oil",
+        "1 onion, finely chopped",
+        "2 garlic cloves",
+        "1 tsp grated ginger",
+        "2 tbsp mild tikka masala paste",
+        "1 tin chopped tomatoes",
+        "3 tbsp Greek yoghurt",
+        "1 tsp sugar or honey",
+        "Fresh coriander, optional",
+        "1 microwave rice pouch (250g)",
+        "Naan, optional"
       ],
       "method": [
-        "Cook the onion and vegetables.",
-        "Add spices and tomatoes.",
-        "Add the main ingredient and simmer.",
-        "Serve with rice."
+        "Fry the onion in oil for 8 minutes until soft and golden.",
+        "Add the garlic, ginger and tikka paste and cook for 2 minutes.",
+        "Add the Quorn and the tomatoes. Simmer for 15 minutes.",
+        "Take off the heat, stir in the yoghurt and sugar, and season.",
+        "Serve with rice, naan and coriander."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "A jar of mild tikka sauce turns this into 15 minutes.",
+        "Freezes well, so make double."
       ],
       "emoji": "🍛",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "vegetable-jalfrezi-rice",
@@ -4796,28 +5099,34 @@
       "protein_g_estimate": 18,
       "why": "A medium-spiced tomato-based vegetable curry with rice is colourful and established.",
       "ingredients": [
-        "Vegetarian main ingredient named in the recipe",
-        "Onion, peppers or preferred vegetables",
-        "Tomatoes and mild or medium spices",
-        "Rice to serve"
+        "1 tbsp oil",
+        "1 onion, chunked",
+        "2 peppers, chunked",
+        "1 courgette, chopped",
+        "Handful of cauliflower or chickpeas",
+        "2 garlic cloves",
+        "2 tbsp jalfrezi or medium curry paste",
+        "1 tin chopped tomatoes",
+        "Squeeze of lemon",
+        "1 microwave rice pouch (250g)"
       ],
       "method": [
-        "Cook the onion and vegetables.",
-        "Add spices and tomatoes.",
-        "Add the main ingredient and simmer.",
-        "Serve with rice."
+        "Fry the onion and peppers on a high heat for 5 minutes so they char a little.",
+        "Add the courgette, cauliflower and garlic for 3 minutes.",
+        "Stir in the curry paste for 1 minute, then the tomatoes.",
+        "Simmer for 15 minutes until thick, adding chickpeas for the last 5 minutes.",
+        "Finish with lemon and serve with rice."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Use mild paste if medium feels too hot.",
+        "Frozen mixed veg works on lazier nights."
       ],
       "emoji": "🍛",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "lentil-dhal-rice",
@@ -4841,28 +5150,36 @@
       "protein_g_estimate": 24,
       "why": "Red lentil dhal and rice make a warm, filling vegetarian classic.",
       "ingredients": [
-        "Vegetarian main ingredient named in the recipe",
-        "Onion, peppers or preferred vegetables",
-        "Tomatoes and mild or medium spices",
-        "Rice to serve"
+        "100g red lentils, rinsed",
+        "1 tbsp oil or butter",
+        "1 onion, chopped",
+        "2 garlic cloves",
+        "1 tsp grated ginger",
+        "1 tsp turmeric",
+        "1 tsp mild curry powder or garam masala",
+        "½ tin chopped tomatoes",
+        "400ml vegetable stock",
+        "Handful of spinach",
+        "Squeeze of lemon",
+        "1 microwave rice pouch (250g)"
       ],
       "method": [
-        "Cook the onion and vegetables.",
-        "Add spices and tomatoes.",
-        "Add the main ingredient and simmer.",
-        "Serve with rice."
+        "Fry the onion in oil for 6 minutes, then the garlic, ginger and spices for 1 minute.",
+        "Add the lentils, tomatoes and stock.",
+        "Simmer for 20 minutes, stirring now and then, until thick and creamy.",
+        "Stir in the spinach and lemon and season well.",
+        "Serve with rice or warm naan."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Dhal freezes brilliantly in portions.",
+        "A spoonful of mango chutney on top is excellent."
       ],
       "emoji": "🍛",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "chickpea-curry-rice",
@@ -4886,28 +5203,33 @@
       "protein_g_estimate": 23,
       "why": "A tomato-based chickpea curry with rice is recognisable, filling and freezer-friendly.",
       "ingredients": [
-        "Vegetarian main ingredient named in the recipe",
-        "Onion, peppers or preferred vegetables",
-        "Tomatoes and mild or medium spices",
-        "Rice to serve"
+        "1 tin chickpeas, drained",
+        "1 tbsp oil",
+        "1 onion, chopped",
+        "2 garlic cloves",
+        "1 tsp grated ginger",
+        "2 tbsp mild curry paste",
+        "1 tin chopped tomatoes",
+        "Handful of spinach",
+        "2 tbsp Greek yoghurt, optional",
+        "1 microwave rice pouch (250g)"
       ],
       "method": [
-        "Cook the onion and vegetables.",
-        "Add spices and tomatoes.",
-        "Add the main ingredient and simmer.",
-        "Serve with rice."
+        "Fry the onion for 6 minutes until soft.",
+        "Add the garlic, ginger and curry paste for 2 minutes.",
+        "Add the tomatoes and chickpeas and simmer for 15 minutes.",
+        "Stir in the spinach until wilted. Finish with a swirl of yoghurt and serve with rice."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Freezes perfectly, so make double.",
+        "Frozen chopped onion saves the tears."
       ],
       "emoji": "🍛",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "vegetarian-chilli-rice",
@@ -4931,28 +5253,36 @@
       "protein_g_estimate": 25,
       "why": "Beans, tomato, peppers and rice make a familiar batch-cook dinner.",
       "ingredients": [
-        "Vegetarian main ingredient named in the recipe",
-        "Onion, peppers or preferred vegetables",
-        "Tomatoes and mild or medium spices",
-        "Rice to serve"
+        "1 tbsp oil",
+        "1 onion, chopped",
+        "1 pepper, chopped",
+        "2 garlic cloves",
+        "1–2 tsp mild chilli powder",
+        "1 tsp cumin",
+        "1 tsp smoked paprika",
+        "1 tin chopped tomatoes",
+        "1 tin kidney or mixed beans, drained",
+        "100g frozen Quorn mince, optional",
+        "Handful of sweetcorn",
+        "1 microwave rice pouch (250g)",
+        "Cheddar and sour cream, to serve"
       ],
       "method": [
-        "Cook the onion and vegetables.",
-        "Add spices and tomatoes.",
-        "Add the main ingredient and simmer.",
-        "Serve with rice."
+        "Fry the onion and pepper for 6 minutes until soft.",
+        "Add the garlic and spices for 1 minute.",
+        "Add the tomatoes, beans, Quorn mince and sweetcorn. Simmer for 20 minutes until thick.",
+        "Serve over rice with grated cheese and sour cream."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Makes 3 portions, and the leftovers are perfect on jacket potatoes.",
+        "Freezes for up to 3 months."
       ],
       "emoji": "🌶️",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-mild-katsu-sauce-with-quorn",
@@ -4966,7 +5296,8 @@
         "effort"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 45,
       "difficulty": "Worth the effort",
@@ -4974,29 +5305,38 @@
       "protein_g_estimate": 36,
       "why": "Homemade katsu sauce, crispy Quorn pieces and rice create a satisfying fakeaway.",
       "ingredients": [
-        "Halloumi, falafel or Quorn pieces as named",
-        "Pitta, wraps, rice or wedges as named",
-        "Tomato, cucumber and peppers",
-        "Hummus, yoghurt, salsa or homemade sauce",
-        "Pickled onions, gherkins or red cabbage"
+        "150g frozen breaded Quorn fillets or nuggets",
+        "1 tbsp oil",
+        "1 onion, chopped",
+        "1 carrot, chopped",
+        "2 garlic cloves",
+        "1 tbsp mild curry powder",
+        "1 tsp turmeric",
+        "1 tbsp plain flour",
+        "350ml vegetable stock",
+        "1 tbsp honey",
+        "1 tbsp soy sauce",
+        "1 microwave rice pouch (250g)",
+        "Pickled red cabbage and cucumber, to serve"
       ],
       "method": [
-        "Prepare the chosen base and vegetables.",
-        "Cook the halloumi, falafel or Quorn pieces.",
-        "Make the sauce if included.",
-        "Assemble and serve."
+        "Put the Quorn in the oven or air fryer according to the packet.",
+        "Fry the onion and carrot in oil for 10 minutes until soft and sweet.",
+        "Add the garlic, curry powder and turmeric for 1 minute, then stir in the flour.",
+        "Gradually add the stock and simmer for 10 minutes.",
+        "Add the honey and soy, then blend until silky smooth.",
+        "Slice the Quorn, put it on the rice and pour the sauce over. Add pickled cabbage and cucumber on the side."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "The sauce keeps for 4 days in the fridge or 3 months in the freezer.",
+        "Breaded halloumi works instead of Quorn."
       ],
       "emoji": "🍛",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "homemade-sweet-chilli-halloumi-fakeaway",
@@ -5019,28 +5359,35 @@
       "protein_g_estimate": 31,
       "why": "Crispy halloumi, rice and homemade sweet chilli-style sauce make a fun fakeaway.",
       "ingredients": [
-        "Vegetarian main ingredient named in the recipe",
-        "Onion, peppers or preferred vegetables",
-        "Tomatoes and mild or medium spices",
-        "Rice to serve"
+        "225g halloumi, cubed",
+        "2 tbsp cornflour",
+        "1 pepper, chunked",
+        "½ onion, chunked",
+        "3 tbsp sweet chilli sauce",
+        "1 tbsp soy sauce",
+        "1 tbsp honey",
+        "1 tbsp rice or white wine vinegar",
+        "1 garlic clove",
+        "Spring onions and sesame seeds",
+        "1 microwave rice pouch (250g)"
       ],
       "method": [
-        "Cook the onion and vegetables.",
-        "Add spices and tomatoes.",
-        "Add the main ingredient and simmer.",
-        "Serve with rice."
+        "Toss the halloumi in the cornflour.",
+        "Fry in a little oil for 6 minutes, turning, until crisp all over (or air fry at 200°C for 10 minutes). Set aside.",
+        "Stir-fry the pepper and onion for 4 minutes.",
+        "Add the garlic, sweet chilli, soy, honey and vinegar and bubble for 1 minute until sticky.",
+        "Toss the halloumi back in and serve on rice with spring onion and sesame seeds."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Toss the halloumi in at the very last second so it stays crunchy.",
+        "Frozen stir-fry veg works fine."
       ],
-      "emoji": "🥢",
+      "emoji": "🥡",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "halloumi-nachos",
@@ -5063,29 +5410,30 @@
       "protein_g_estimate": 29,
       "why": "Tortilla chips, beans, salsa, cheddar and halloumi make excellent comfort food.",
       "ingredients": [
-        "Tortilla chips",
-        "Beans and salsa",
-        "Cheddar",
-        "Halloumi or falafel as named",
-        "Pickled onions or gherkins, optional"
+        "150g tortilla chips",
+        "½ tin black or mixed beans, drained",
+        "4 tbsp salsa",
+        "60g cheddar, grated",
+        "80g halloumi, finely cubed",
+        "Pickled onions or jalapeños, optional",
+        "Sour cream and guacamole, to serve"
       ],
       "method": [
-        "Arrange the chips on a tray.",
-        "Add beans, salsa, cheese and the named topping.",
-        "Bake until hot and melted.",
-        "Finish with pickles if wanted."
+        "Heat the oven to 200°C. Fry the halloumi cubes for 3 minutes until golden.",
+        "Spread the chips on a baking tray and scatter with the beans, salsa, halloumi and cheese.",
+        "Bake for 8 minutes until the cheese has melted.",
+        "Top with pickles, sour cream and guacamole, and eat straight off the tray."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Bake it on the tray you serve it on.",
+        "Layer the chips and cheese twice so every chip gets some."
       ],
       "emoji": "🧀",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "falafel-nachos",
@@ -5100,7 +5448,8 @@
         "fuel"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 25,
       "difficulty": "Easy",
@@ -5108,29 +5457,30 @@
       "protein_g_estimate": 24,
       "why": "Falafel, tortilla chips, salsa, beans and cheese make a vegetarian loaded-nachos dinner.",
       "ingredients": [
-        "Tortilla chips",
-        "Beans and salsa",
-        "Cheddar",
-        "Halloumi or falafel as named",
-        "Pickled onions or gherkins, optional"
+        "150g tortilla chips",
+        "4 falafel, crumbled",
+        "½ tin black beans, drained",
+        "4 tbsp salsa",
+        "60g cheddar",
+        "Hummus or tzatziki to drizzle",
+        "Pickled red cabbage"
       ],
       "method": [
-        "Arrange the chips on a tray.",
-        "Add beans, salsa, cheese and the named topping.",
-        "Bake until hot and melted.",
-        "Finish with pickles if wanted."
+        "Heat the oven to 200°C.",
+        "Layer the chips, crumbled falafel, beans, salsa and cheese on a tray.",
+        "Bake for 8–10 minutes until melted.",
+        "Drizzle with loosened hummus or tzatziki and top with pickled cabbage."
       ],
       "shortcuts": [
-        "Use microwave rice where helpful.",
-        "Use shop-bought sauce on a lower-energy day.",
-        "Make extra and freeze a portion where suitable."
+        "Loosen the hummus with a splash of water and lemon to drizzle.",
+        "Any leftover falafel works."
       ],
-      "emoji": "🧆",
+      "emoji": "🧀",
       "legend": false,
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     },
     {
       "id": "wedges-corn-on-the-cob-southern-fried-veggie-goujons",
@@ -5145,7 +5495,8 @@
         "fuel"
       ],
       "preferences": [
-        "happy_to_shop"
+        "happy_to_shop",
+        "freezer_staples"
       ],
       "time_minutes": 30,
       "difficulty": "Easy",
@@ -5173,7 +5524,7 @@
       "niamh_edition": false,
       "fed_is_best": false,
       "vegetarian": true,
-      "nutrition_note": "Planning estimate only; actual values vary by brand, portion and substitutions."
+      "nutrition_note": "A rough guide only. Brands, portions and swaps all change it."
     }
   ]
 }
